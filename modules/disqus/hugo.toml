@@ -1,0 +1,7 @@
+[[module.imports]]
+path = "github.com/hbstack/docs"
+
+[[module.imports]]
+path = "github.com/hbstack/disqus"
+
+[params.hugopress.modules.hb-docs-comments-disqus.hooks.hb-docs-doc-comments]

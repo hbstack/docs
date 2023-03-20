@@ -1,0 +1,7 @@
+[[module.imports]]
+path = "github.com/hbstack/breadcrumb"
+
+[[module.imports]]
+path = "github.com/hbstack/docs"
+
+[params.hugopress.modules.hb-docs-breadcrumb.hooks.hb-docs-main-begin]
