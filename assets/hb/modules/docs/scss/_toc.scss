@@ -1,0 +1,31 @@
+.hb-docs-nav,
+.hb-docs-doc-toc {
+    grid-area: toc;
+
+    @include media-breakpoint-up(lg) {
+        position: sticky;
+        top: 86px;
+        height: calc(100vh - 86px);
+        overflow-y: auto;
+    }
+}
+
+.hb-docs-doc-toc {
+    @include media-breakpoint-down(lg) {
+        color: var(--#{$prefix}body-color) !important;
+        margin: 0.5rem 0 1rem;
+
+        /* stylelint-disable selector-id-pattern */
+        #TableOfContents {
+            border-bottom: 1px solid var(--#{$prefix}border-color);
+            font-size: 1rem !important;
+        }
+        /* stylelint-enable selector-id-pattern */
+    }
+}
+
+@include media-breakpoint-up(md) {
+    .hb-docs-doc-toc-collapse {
+        display: block !important;
+    }
+}
