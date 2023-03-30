@@ -8,6 +8,7 @@ github.com/hbstack/docs v0.1.2 h1:yqwUW5bPQT4uVzw2Ri7mbNaDTO8r71CfuXpdSvGseq8=
 github.com/hbstack/docs v0.1.2/go.mod h1:k4kzz8Mu1OlubbgmavGuFQrpEPNc25cGAh4DBRAwlNo=
 github.com/hbstack/hb v0.1.2 h1:GEx20g1w53Do3bu3aiyK5ubfkpjQIcHNHBx1lJKCzCk=
 github.com/hbstack/hb v0.1.2/go.mod h1:j1CyW+HWmbqdAgagn8FPEtdTGZEdTHVZdml+vqfsKiU=
+github.com/hbstack/hb v0.1.4/go.mod h1:MRDu9z0Iq6B3xTCS8QQ5zX0hzGKDQYMxNXm+GLXinqU=
 github.com/hbstack/socials v0.1.1 h1:nuUaI5wnBdh6naPYouM2PPnZwI5lgM1OPctrLRyJfWY=
 github.com/hbstack/socials v0.1.1/go.mod h1:OfycksJfdtZtOvSW1bM6BzepwLHxe3pExV5MBrKoW7I=
 github.com/hugomods/gravatar v0.1.0 h1:wggcqWDeLVXbvechNuehMpTf1NL8yDZUhWEmQxH8NzA=
