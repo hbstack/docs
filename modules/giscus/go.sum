@@ -12,6 +12,7 @@ github.com/hbstack/carousel v0.1.5/go.mod h1:PkmHk1S3zSmJZMgQmP7Wq+DW0kbFgTTjMmD
 github.com/hbstack/carousel v0.1.6/go.mod h1:PkmHk1S3zSmJZMgQmP7Wq+DW0kbFgTTjMmDg3nQH/yc=
 github.com/hbstack/docs v0.1.1 h1:+d8rsvrDNbM83Qyo3Yc3q6ClLiLlWqgpJ1xzns2v39E=
 github.com/hbstack/docs v0.1.1/go.mod h1:CNg6F64itcStGejgHhnQdiVIfmOfDJHpBatm3WzB2jE=
+github.com/hbstack/docs v0.1.2/go.mod h1:k4kzz8Mu1OlubbgmavGuFQrpEPNc25cGAh4DBRAwlNo=
 github.com/hbstack/giscus v0.1.0 h1:CmVaxSK60/oF3gmnfUd0UjqtgRK8jV36fQWUff/QuAA=
 github.com/hbstack/giscus v0.1.0/go.mod h1:AkBrbp5uSPcATouJ9g0psaozcM3NxgTrPxMJDJWwWUE=
 github.com/hugomods/base v0.1.0 h1:3o9Y85BvXHjkYzZfswM/EtthQ8GOYKN8aXHkIWqu3/8=
