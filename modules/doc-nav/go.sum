@@ -18,3 +18,4 @@ github.com/hbstack/hb v0.1.2/go.mod h1:j1CyW+HWmbqdAgagn8FPEtdTGZEdTHVZdml+vqfsK
 github.com/hbstack/hb v0.1.4/go.mod h1:MRDu9z0Iq6B3xTCS8QQ5zX0hzGKDQYMxNXm+GLXinqU=
 github.com/hugomods/gravatar v0.1.0 h1:wggcqWDeLVXbvechNuehMpTf1NL8yDZUhWEmQxH8NzA=
 github.com/hugomods/gravatar v0.1.0/go.mod h1:oATWuh5u2XUK/ZKzOD0VEP5I/TZfVZwplTyhT61Q4Fc=
+github.com/hugomods/gravatar v0.1.1/go.mod h1:oATWuh5u2XUK/ZKzOD0VEP5I/TZfVZwplTyhT61Q4Fc=
