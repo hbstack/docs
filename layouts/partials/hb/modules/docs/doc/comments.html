@@ -1,5 +1,7 @@
-{{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-doc-comments-begin") }}
-<div class="hb-docs-doc-comments">
-  {{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-doc-comments") }}
-</div>
-{{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-doc-comments-end") }}
+{{- if default true .Params.comments }}
+  {{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-doc-comments-begin") }}
+  <div id="content-comments" class="hb-docs-doc-comments">
+    {{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-doc-comments") }}
+  </div>
+  {{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-doc-comments-end") }}
+{{- end }}
