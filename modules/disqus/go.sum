@@ -15,6 +15,7 @@ github.com/hbstack/disqus v0.1.0/go.mod h1:DJBv8RCHlcZk7mZCD8KTpFBNUKqlPjh2x/k8j
 github.com/hbstack/docs v0.1.1 h1:+d8rsvrDNbM83Qyo3Yc3q6ClLiLlWqgpJ1xzns2v39E=
 github.com/hbstack/docs v0.1.1/go.mod h1:CNg6F64itcStGejgHhnQdiVIfmOfDJHpBatm3WzB2jE=
 github.com/hbstack/docs v0.1.2/go.mod h1:k4kzz8Mu1OlubbgmavGuFQrpEPNc25cGAh4DBRAwlNo=
+github.com/hbstack/docs v0.1.3/go.mod h1:ySIvxCQqAcDt7dcHJo/c6S3GsxfBsjIBA2mmhy5eNdo=
 github.com/hbstack/hb v0.1.2 h1:GEx20g1w53Do3bu3aiyK5ubfkpjQIcHNHBx1lJKCzCk=
 github.com/hbstack/hb v0.1.2/go.mod h1:j1CyW+HWmbqdAgagn8FPEtdTGZEdTHVZdml+vqfsKiU=
 github.com/hbstack/hb v0.1.4/go.mod h1:MRDu9z0Iq6B3xTCS8QQ5zX0hzGKDQYMxNXm+GLXinqU=
