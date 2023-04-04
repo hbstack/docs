@@ -1,0 +1,7 @@
+[[module.imports]]
+path = "github.com/hbstack/docs"
+
+[[module.imports]]
+path = "github.com/hbstack/content-panel"
+
+[params.hugopress.modules.hb-docs-doc-content-panel.hooks.hb-docs-doc-content-end]
