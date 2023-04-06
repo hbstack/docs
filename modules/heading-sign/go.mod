@@ -9,5 +9,5 @@ require (
 	github.com/hbstack/docs v0.1.3 // indirect
 	github.com/hbstack/hb v0.1.4 // indirect
 	github.com/hbstack/heading-sign v0.1.2 // indirect
-	github.com/hugomods/gravatar v0.1.1 // indirect
+	github.com/hugomods/gravatar v0.2.0 // indirect
 )

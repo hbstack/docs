@@ -9,6 +9,6 @@ require (
 	github.com/hbstack/docs v0.1.3 // indirect
 	github.com/hbstack/giscus v0.1.0 // indirect
 	github.com/hugomods/base v0.1.0 // indirect
-	github.com/hugomods/gravatar v0.1.1 // indirect
+	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/hugopress v0.1.0 // indirect
 )
