@@ -21,18 +21,37 @@
 {{- if not $prev }}
   {{- $justify = "justify-content-end" }}
 {{- end }}
+{{- $size := "1.5em" }}
 <ul class="hb-docs-doc-nav nav hb-module {{ $justify }}">
   {{ with $prev }}
-    <li class="nav-item">
-      <a class="nav-link p-0" title="{{ .Title }}" href="{{ .RelPermalink }}">
-        {{- partial "icons/icon" (dict "vendor" "bootstrap" "name" "arrow-left-circle" "width" "2rem" "height" "2rem") }}
+    <li class="nav-item my-1">
+      <a
+        class="nav-link p-0 d-flex align-items-center"
+        href="{{ .RelPermalink }}">
+        {{- partial "icons/icon" (dict
+          "vendor" "bootstrap"
+          "name" "arrow-left-circle"
+          "width" $size
+          "height" $size
+          "className" "me-2")
+        -}}
+        {{- .LinkTitle -}}
       </a>
     </li>
   {{ end }}
   {{ with $next }}
-    <li class="nav-item">
-      <a class="nav-link p-0" title="{{ .Title }}" href="{{ .RelPermalink }}">
-        {{- partial "icons/icon" (dict "vendor" "bootstrap" "name" "arrow-right-circle" "width" "2rem" "height" "2rem") }}
+    <li class="nav-item my-1">
+      <a
+        class="nav-link p-0 d-flex align-items-center"
+        href="{{ .RelPermalink }}">
+        {{- .LinkTitle -}}
+        {{- partial "icons/icon" (dict
+          "vendor" "bootstrap"
+          "name" "arrow-right-circle"
+          "width" $size
+          "height" $size
+          "className" "ms-2")
+        -}}
       </a>
     </li>
   {{ end }}
