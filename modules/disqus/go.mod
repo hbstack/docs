@@ -8,6 +8,6 @@ require (
 	github.com/hbstack/carousel v0.1.13 // indirect
 	github.com/hbstack/disqus v0.1.0 // indirect
 	github.com/hbstack/docs v0.1.3 // indirect
-	github.com/hbstack/hb v0.1.4 // indirect
+	github.com/hbstack/hb v0.2.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
 )
