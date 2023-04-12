@@ -1,2 +1,3 @@
-{{- $weighted := sort (where .Pages "Params.nav_weight" ">" 0) "Params.nav_weight" }}
-{{- return union $weighted (sort .Pages "Title") -}}
+{{- $pages := sort .Pages "LinkTitle" }}
+{{- $weighted := sort (where $pages "Params.nav_weight" ">" 0) "Params.nav_weight" }}
+{{- return union $weighted $pages -}}
