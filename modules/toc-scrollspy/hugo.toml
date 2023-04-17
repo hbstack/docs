@@ -1,0 +1,7 @@
+[params.hugopress.modules.hb-docs-toc-scrollspy.attributes.hb-docs-doc-content]
+
+[[module.imports]]
+path = "github.com/hbstack/toc-scrollspy"
+
+[[module.imports]]
+path = "github.com/hbstack/docs"
