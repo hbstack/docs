@@ -8,6 +8,7 @@ github.com/hbstack/docs v0.2.0 h1:6rOMG44Pl5Hm2d8yke0KvmUqYdty07sj443tE/JK0dE=
 github.com/hbstack/docs v0.2.0/go.mod h1:EJg1tL3WDsgVXUsuwdtdNP+/Ayak5aUIBOUnjNriutE=
 github.com/hbstack/hb v0.2.0 h1:fWwFoFKTAoreLqcBpquZzPrxy7tLj46SKcvSOeE7fc4=
 github.com/hbstack/hb v0.2.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
+github.com/hbstack/hb v0.3.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
 github.com/hbstack/socials v0.1.1 h1:nuUaI5wnBdh6naPYouM2PPnZwI5lgM1OPctrLRyJfWY=
 github.com/hbstack/socials v0.1.1/go.mod h1:OfycksJfdtZtOvSW1bM6BzepwLHxe3pExV5MBrKoW7I=
 github.com/hbstack/toc-scrollspy v0.1.0 h1:sr9HidxHVYeSZR1FVOGQzphONSsct/OscbWPSV+vMlo=
