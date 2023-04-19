@@ -5,6 +5,7 @@ github.com/hbstack/base v0.1.3/go.mod h1:tein3kLAihnlcXe+xAprntZNjCvA/hRDkrxmZHO
 github.com/hbstack/carousel v0.1.13 h1:UZQyrJqfqu5ns2tjUwUI0MDpiIN9liEr/0qFvZyuGHI=
 github.com/hbstack/carousel v0.1.13/go.mod h1:LYQ0nZwyBEOpHVbBCDbml3C7fx+MWxEEXKQjkixBJfA=
 github.com/hbstack/carousel v0.2.0/go.mod h1:qUmtQEgnnNrnNumiCbAV9hgiitlW4KrQs1W7b2TlAqI=
+github.com/hbstack/carousel v0.2.1/go.mod h1:ygxbeQDgxnDcu6FPdJzS/aacSyn+exgRpjpsRhsMVU0=
 github.com/hbstack/content-panel v0.1.0 h1:2d0FMbU8vgLWHQ7Pqg+TqiZbonmcPQJrKVI4Fon2qiY=
 github.com/hbstack/content-panel v0.1.0/go.mod h1:8/7NImX1TFlXyk15S/mlYjG0cnS4PtkGYSlNF3hh8O4=
 github.com/hbstack/content-panel v0.1.1/go.mod h1:UfPWznXVmbunuXgi04XMbPZaT5Wi+4mtpTb5vQNlfrc=
