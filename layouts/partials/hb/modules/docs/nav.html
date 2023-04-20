@@ -67,7 +67,11 @@
       <li class="hb-docs-nav-links-span-all">
         <a
           class="hb-docs-nav-link d-flex align-items-center rounded{{ cond $active ` active` `` }}"
-          href="{{ .Page.RelPermalink }}">
+          {{ with .Page.Params.redirect }}
+            target="_blank" href="{{ . | absURL }}"
+          {{ else }}
+            href="{{ .Page.RelPermalink }}"
+          {{ end }}>
           {{- partial "hb/modules/docs/nav-menu" $node.Page -}}
         </a>
       </li>
