@@ -2,6 +2,7 @@ github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+y
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
 github.com/hbstack/base v0.1.1 h1:1ehqqiEVEWC2tFrj2M8NhynBTYxt2uiZrpydB3j/pgY=
 github.com/hbstack/base v0.1.1/go.mod h1:7J9OWva2kKpSSLHmVCErdcu9x5rkM9Y9EXBdumon/0Q=
+github.com/hbstack/base v0.1.4/go.mod h1:HPH5RBlYR8QvGH/Qo5Do1uRd+1u4K2OmoD9zb3fsytQ=
 github.com/hbstack/carousel v0.1.13 h1:UZQyrJqfqu5ns2tjUwUI0MDpiIN9liEr/0qFvZyuGHI=
 github.com/hbstack/carousel v0.1.13/go.mod h1:LYQ0nZwyBEOpHVbBCDbml3C7fx+MWxEEXKQjkixBJfA=
 github.com/hbstack/carousel v0.2.0/go.mod h1:qUmtQEgnnNrnNumiCbAV9hgiitlW4KrQs1W7b2TlAqI=
@@ -14,6 +15,7 @@ github.com/hbstack/docs v0.3.0/go.mod h1:bmStrKlo7J8OGzDXW5ZC3dImSfizVEzfbwfn0qJ
 github.com/hbstack/hb v0.2.0 h1:fWwFoFKTAoreLqcBpquZzPrxy7tLj46SKcvSOeE7fc4=
 github.com/hbstack/hb v0.2.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
 github.com/hbstack/hb v0.3.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
+github.com/hbstack/hb v0.4.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
 github.com/hbstack/heading-sign v0.1.2 h1:ZwK0rY1PoVYkF/HNfXwusN1osxiyovM8Kte1y4ix9nI=
 github.com/hbstack/heading-sign v0.1.2/go.mod h1:jWQe5pgimNiRzvkXHJ5avfc2TSoQe9Z9jIzNUTAmwao=
 github.com/hbstack/socials v0.1.1 h1:nuUaI5wnBdh6naPYouM2PPnZwI5lgM1OPctrLRyJfWY=
