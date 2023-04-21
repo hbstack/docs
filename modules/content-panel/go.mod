@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
-	github.com/hbstack/base v0.1.4 // indirect
+	github.com/hbstack/base v0.1.5 // indirect
 	github.com/hbstack/carousel v0.2.1 // indirect
 	github.com/hbstack/content-panel v0.1.1 // indirect
 	github.com/hbstack/docs v0.3.0 // indirect
