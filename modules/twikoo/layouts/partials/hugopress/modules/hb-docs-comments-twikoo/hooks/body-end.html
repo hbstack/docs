@@ -1,0 +1,3 @@
+{{- if and (default true .Page.Params.comments) (eq .Page.Type "docs") }}
+  {{ partial "twikoo/script-with-options" .Page.Site.Params.hb.docs.twikoo }}
+{{- end }}
