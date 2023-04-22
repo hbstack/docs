@@ -1,3 +1,3 @@
-{{- if and (default true .Page.Params.comments) (eq .Page.Type "docs") }}
+{{- if .Page.Scratch.Get "hb_docs_comments_giscus" }}
   {{ partial "giscus/script-with-options" .Page.Site.Params.hb.docs.giscus }}
 {{- end }}
