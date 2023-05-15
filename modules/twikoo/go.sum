@@ -24,5 +24,6 @@ github.com/hugomods/simple-icons v8.10.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/
 github.com/hugomods/simple-icons v8.11.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
 github.com/hugomods/simple-icons v8.12.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
 github.com/hugomods/simple-icons v8.13.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
+github.com/hugomods/simple-icons v8.14.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
 github.com/hugomods/twikoo v0.1.0 h1:8tWeFno5FyIzHhXjwiCBjv16l/QSvMiLkr3jOeORps0=
 github.com/hugomods/twikoo v0.1.0/go.mod h1:Q8GiDvxBFxlQgKRPHsx8xKGeq1gs0MJ44ShA8sr5wZc=
