@@ -1,0 +1,17 @@
+[[module.imports]]
+path = "github.com/hbstack/staticman-comments"
+
+[[module.imports]]
+path = "github.com/hbstack/docs"
+
+[params.hugopress.modules.hb-docs-comments-staticman.hooks.hb-docs-doc-comments]
+weight = 1000
+
+[params.hb.docs.staticman]
+endpoint = "https://staticman.hugomods.com/" # required, replace with your own Staticman instance.
+service = "github" # Git service provider: github, gitlab or onedev.
+repo = "" # required, i.e. 'user/repo'.
+branch = "main" # branch name.
+property = "comments" # the name of Staticman property.
+moderation = true
+# required_fields = ["email", "url"]
