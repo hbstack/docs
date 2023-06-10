@@ -9,6 +9,7 @@ github.com/hbstack/docs v0.5.0 h1:5zK61sTYV1p3Sjub6iQKpbVKnfbloOodXoDGA++domE=
 github.com/hbstack/docs v0.5.0/go.mod h1:9oKZEnqoUxg7+bn13yhUBbY1WzmWmW51O8kYyOKEo4w=
 github.com/hbstack/featured-image v0.1.0 h1:EGrCHV/EOsxXZGEvfQANgVD/Ic4U4UW7ECrDHJeRZWA=
 github.com/hbstack/featured-image v0.1.0/go.mod h1:852gAzpUazWw9Eu57VrVfU/RvqMo7kl9BMzEC3xxscg=
+github.com/hbstack/featured-image v0.1.1/go.mod h1:JniIDVMJnbvsR5cVVhsCpTMlvquZwo//pgbL5iyYWTA=
 github.com/hbstack/hb v0.5.0 h1:5KopgFbczqA1PKcWS1X8YWMjMq698MlasTF8FxH5E4U=
 github.com/hbstack/hb v0.5.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
 github.com/hbstack/hb v0.5.1/go.mod h1:qlNnPNO1MRsrxxDvFMz98DMFafaBgvtAfBYiteR3i1A=
