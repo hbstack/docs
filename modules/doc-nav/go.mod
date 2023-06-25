@@ -11,5 +11,5 @@ require (
 	github.com/hbstack/socials v0.2.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/images v0.5.1 // indirect
-	github.com/hugomods/simple-icons v9.2.0+incompatible // indirect
+	github.com/hugomods/simple-icons v9.3.0+incompatible // indirect
 )
