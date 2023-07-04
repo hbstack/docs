@@ -7,7 +7,7 @@
   {{ .Content }}
   {{- if .Pages }}
     <h2 class="mb-3">{{ i18n "in_this_section" }}</h2>
-    <ul class="list-unstyled mb-4">
+    <ul class="list-unstyled mb-5 border-top pt-3">
       {{ template "walk-docs-section-tree" . }}
     </ul>
   {{- end }}
@@ -20,15 +20,21 @@
   {{- $pages := union $weighted (sort .Pages "Title") }}
   {{- range $pages }}
     {{- if .IsSection }}
-      <li class="mb-2">
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        <ul class="list-unstyled ps-4 mt-2">
+      <li class="mb-4">
+        <a class="fs-5 text-decoration-none" href="{{ .RelPermalink }}">
+          {{- .Title -}}
+        </a>
+        <div class="mt-1">{{- default .Summary .Description -}}</div>
+        <ul class="list-unstyled ps-4 pt-3 mt-2 border-top">
           {{ template "walk-docs-section-tree" . }}
         </ul>
       </li>
     {{- else }}
-      <li class="mb-2">
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <li class="mb-4">
+        <a class="fs-5 text-decoration-none" href="{{ .RelPermalink }}">
+          {{- .Title -}}
+        </a>
+        <div class="mt-1">{{- default .Summary .Description -}}</div>
       </li>
     {{- end }}
   {{- end }}
