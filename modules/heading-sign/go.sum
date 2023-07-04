@@ -17,6 +17,7 @@ github.com/hbstack/docs v0.2.0/go.mod h1:EJg1tL3WDsgVXUsuwdtdNP+/Ayak5aUIBOUnjNr
 github.com/hbstack/docs v0.3.0/go.mod h1:bmStrKlo7J8OGzDXW5ZC3dImSfizVEzfbwfn0qJxPnE=
 github.com/hbstack/docs v0.4.0/go.mod h1:M59YY0BQ+LQodPewES7wmRkq9oT96GzdBiUyGpjjTD0=
 github.com/hbstack/docs v0.5.0/go.mod h1:9oKZEnqoUxg7+bn13yhUBbY1WzmWmW51O8kYyOKEo4w=
+github.com/hbstack/docs v0.6.0/go.mod h1:z8VxwLJBWlAcOuhX3HYkaJZNI1GH+4MHXkxyhLbGD0M=
 github.com/hbstack/hb v0.2.0 h1:fWwFoFKTAoreLqcBpquZzPrxy7tLj46SKcvSOeE7fc4=
 github.com/hbstack/hb v0.2.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
 github.com/hbstack/hb v0.3.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
