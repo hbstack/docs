@@ -11,6 +11,9 @@
           <div class="hb-blog-post-meta hb-docs-doc-meta mb-3">
             {{- partial "hb/modules/docs/doc/meta" . }}
           </div>
+          {{- with .Description }}
+            <p class="lead">{{ . }}</p>
+          {{- end }}
         </div>
         <div class="hb-docs-doc-toc ps-lg-3 text-body-secondary">
           {{ partial "hb/modules/docs/toc" . }}
