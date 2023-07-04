@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.1](https://github.com/hbstack/docs/compare/v0.6.0...v0.6.1) (2023-07-04)
+
+
+### Bug Fixes 🐞
+
+* add style to PurgeCSS safelisting ([#171](https://github.com/hbstack/docs/issues/171)) ([963d082](https://github.com/hbstack/docs/commit/963d082117b9c50421b069fb1902d9dcbba12c56))
+
 ## [0.6.0](https://github.com/hbstack/docs/compare/v0.5.0...v0.6.0) (2023-07-04)
 
 
