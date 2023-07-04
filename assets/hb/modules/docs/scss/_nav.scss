@@ -25,3 +25,11 @@
         }
     }
 }
+
+.hb-docs-nav-toggle {
+    &[aria-expanded="true"] {
+        .hb-docs-nav-toggle-icon {
+            transform: rotate(90deg);
+        }
+    }
+}
