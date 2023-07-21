@@ -10,5 +10,5 @@ require (
 	github.com/hbstack/docs v0.6.1 // indirect
 	github.com/hugomods/base v0.1.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
-	github.com/hugomods/hugopress v0.2.0 // indirect
+	github.com/hugomods/hugopress v0.2.1 // indirect
 )
