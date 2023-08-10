@@ -2,6 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
     "bootstrap-sha": "48e84d7f439da222c868ee688c297d967018beb4",
     "monorepo-tags": true,
+    "separate-pull-requests": true,
     "release-type": "go",
     "tag-separator": "/",
     "changelog-sections": [
@@ -16,19 +17,8 @@
     ],
     "packages": {
         ".": {
-            "separate-pull-requests": true,
             "exclude-paths": [
-                "modules/breadcrumb",
-                "modules/content-panel",
-                "modules/disqus",
-                "modules/featured-image",
-                "modules/giscus",
-                "modules/heading-sign",
-                "modules/doc-nav",
-                "modules/staticman",
-                "modules/toc-scrollspy",
-                "modules/twikoo",
-                "modules/utterances"
+                "modules"
             ]
         },
         "modules/breadcrumb": {
