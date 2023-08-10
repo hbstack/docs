@@ -1,7 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
     "bootstrap-sha": "48e84d7f439da222c868ee688c297d967018beb4",
-    "monorepo-tags": true,
     "release-type": "go",
     "tag-separator": "/",
     "changelog-sections": [
@@ -30,39 +29,6 @@
                 "modules/twikoo",
                 "modules/utterances"
             ]
-        },
-        "modules/breadcrumb": {
-            "component": "modules/breadcrumb"
-        },
-        "modules/content-panel": {
-            "component": "modules/content-panel"
-        },
-        "modules/disqus": {
-            "component": "modules/disqus"
-        },
-        "modules/featured-image": {
-            "component": "modules/featured-image"
-        },
-        "modules/giscus": {
-            "component": "modules/giscus"
-        },
-        "modules/heading-sign": {
-            "component": "modules/heading-sign"
-        },
-        "modules/doc-nav": {
-            "component": "modules/doc-nav"
-        },
-        "modules/staticman": {
-            "component": "modules/staticman"
-        },
-        "modules/toc-scrollspy": {
-            "component": "modules/toc-scrollspy"
-        },
-        "modules/twikoo": {
-            "component": "modules/twikoo"
-        },
-        "modules/utterances": {
-            "component": "modules/utterances"
         }
     }
 }
