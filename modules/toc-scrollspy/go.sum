@@ -9,6 +9,7 @@ github.com/hbstack/carousel v0.2.0 h1:NMWvhg8kJ8RCq6pwmDupIg3mzbkgvjypKNh7B/idXS
 github.com/hbstack/carousel v0.2.0/go.mod h1:qUmtQEgnnNrnNumiCbAV9hgiitlW4KrQs1W7b2TlAqI=
 github.com/hbstack/carousel v0.2.1/go.mod h1:ygxbeQDgxnDcu6FPdJzS/aacSyn+exgRpjpsRhsMVU0=
 github.com/hbstack/carousel v0.2.2/go.mod h1:7ksA42jkP82YsGJqKOU9izqiZBLpIBDBuMY6+IAuTZI=
+github.com/hbstack/carousel v0.2.3/go.mod h1:BUoUKVTPOSoE2iCJABFoCURetHa6OCw6r+gr5DBYavo=
 github.com/hbstack/docs v0.2.0 h1:6rOMG44Pl5Hm2d8yke0KvmUqYdty07sj443tE/JK0dE=
 github.com/hbstack/docs v0.2.0/go.mod h1:EJg1tL3WDsgVXUsuwdtdNP+/Ayak5aUIBOUnjNriutE=
 github.com/hbstack/docs v0.3.0/go.mod h1:bmStrKlo7J8OGzDXW5ZC3dImSfizVEzfbwfn0qJxPnE=
