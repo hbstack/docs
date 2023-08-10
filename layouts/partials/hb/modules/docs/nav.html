@@ -30,7 +30,12 @@
         {{- $active = true }}
       {{- end }}
       <li class="hb-docs-nav-links-group">
-        {{- $collapseId := printf "collapse-%s" $node.Page.File.UniqueID }}
+        {{- $collapseId := "" }}
+        {{- with $node.Page.File }}
+          {{- $collapseId = printf "collapse-%s" .UniqueID }}
+        {{- else }}
+          {{- $collapseId = printf "collapse-%d" now.UnixNano }}
+        {{- end }}
         <div
           class="hb-docs-nav-heading d-flex align-items-center justify-content-between rounded{{ cond $active ` active` `` }}">
           <a
