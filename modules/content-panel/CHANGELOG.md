@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.1.3](https://github.com/hbstack/docs/compare/modules/content-panel/v0.1.2...modules/content-panel/v0.1.3) (2023-08-10)
+## [0.1.3](https://github.com/hbstack/docs/compare/modules/content-panel/v0.1.2...modules/content-panel/v0.1.3) (2023-08-11)
 
 
 ### Continuous Integration
