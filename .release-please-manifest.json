@@ -10,5 +10,5 @@
     "modules/staticman": "0.1.1",
     "modules/toc-scrollspy": "0.1.2",
     "modules/twikoo": "0.1.2",
-    "modules/utterances": "0.1.2"
+    "modules/utterances": "0.1.3"
 }
