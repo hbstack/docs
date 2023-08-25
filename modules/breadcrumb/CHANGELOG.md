@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/hbstack/docs/compare/modules/breadcrumb/v0.1.4...modules/breadcrumb/v0.1.5) (2023-08-25)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hbstack/base to v0.2.1 ([55c376f](https://github.com/hbstack/docs/commit/55c376f40eca361da634d1fb184ec83cb83fcab8))
+
 ## [0.1.4](https://github.com/hbstack/docs/compare/modules/breadcrumb/v0.1.3...modules/breadcrumb/v0.1.4) (2023-08-11)
 
 
