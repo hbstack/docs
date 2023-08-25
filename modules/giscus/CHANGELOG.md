@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.6](https://github.com/hbstack/docs/compare/modules/giscus/v0.1.5...modules/giscus/v0.1.6) (2023-08-25)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hbstack/base to v0.2.1 ([55c376f](https://github.com/hbstack/docs/commit/55c376f40eca361da634d1fb184ec83cb83fcab8))
+* **deps:** update module github.com/hugomods/simple-icons to v9.11.0+incompatible ([6b6da1f](https://github.com/hbstack/docs/commit/6b6da1f97b5589620690115097c91836d4914d61))
+
 ## [0.1.5](https://github.com/hbstack/docs/compare/modules/giscus/v0.1.4...modules/giscus/v0.1.5) (2023-08-10)
 
 
