@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/hbstack/docs/compare/modules/staticman/v0.1.2...modules/staticman/v0.1.3) (2023-08-25)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hugomods/simple-icons to v9.11.0+incompatible ([6b6da1f](https://github.com/hbstack/docs/commit/6b6da1f97b5589620690115097c91836d4914d61))
+
 ## [0.1.2](https://github.com/hbstack/docs/compare/modules/staticman/v0.1.1...modules/staticman/v0.1.2) (2023-08-11)
 
 
