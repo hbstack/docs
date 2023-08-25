@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.4](https://github.com/hbstack/docs/compare/modules/disqus/v0.1.3...modules/disqus/v0.1.4) (2023-08-25)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hbstack/base to v0.2.1 ([55c376f](https://github.com/hbstack/docs/commit/55c376f40eca361da634d1fb184ec83cb83fcab8))
+* **deps:** update module github.com/hbstack/hb to v0.6.0 ([3649309](https://github.com/hbstack/docs/commit/3649309db8a5aafc239ad24444bcc816798ea07c))
+* **deps:** update module github.com/hbstack/hb to v0.7.0 ([5f2b1c8](https://github.com/hbstack/docs/commit/5f2b1c8c6df552cb530c1b328ccf58e169465fdb))
+
 ## [0.1.3](https://github.com/hbstack/docs/compare/modules/disqus/v0.1.2...modules/disqus/v0.1.3) (2023-08-11)
 
 
