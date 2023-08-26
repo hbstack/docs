@@ -21,20 +21,20 @@
   {{- range $pages }}
     {{- if .IsSection }}
       <li class="mb-4">
-        <a class="fs-5 text-decoration-none" href="{{ .RelPermalink }}">
+        <a class="fs-6 text-decoration-none" href="{{ .RelPermalink }}">
           {{- .Title -}}
         </a>
-        <div class="mt-1">{{- default .Summary .Description -}}</div>
-        <ul class="list-unstyled ps-4 pt-3 mt-2 border-top">
+        <div class="mt-1 text-body-secondary">{{- default .Summary .Description -}}</div>
+        <ul class="list-unstyled ps-4 pt-2 mt-2 border-start">
           {{ template "walk-docs-section-tree" . }}
         </ul>
       </li>
     {{- else }}
       <li class="mb-4">
-        <a class="fs-5 text-decoration-none" href="{{ .RelPermalink }}">
+        <a class="fs-6 text-decoration-none" href="{{ .RelPermalink }}">
           {{- .Title -}}
         </a>
-        <div class="mt-1">{{- default .Summary .Description -}}</div>
+        <div class="mt-1 text-body-secondary">{{- default .Summary .Description -}}</div>
       </li>
     {{- end }}
   {{- end }}
