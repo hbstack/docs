@@ -3,7 +3,7 @@ module github.com/hbstack/docs/modules/utterances
 go 1.19
 
 require (
-	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20003 // indirect
+	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 	github.com/hbstack/base v0.2.1 // indirect
 	github.com/hbstack/carousel v0.2.3 // indirect
 	github.com/hbstack/docs v0.6.4 // indirect
