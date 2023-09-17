@@ -16,5 +16,5 @@ require (
 	github.com/hugomods/images v0.7.0 // indirect
 	github.com/hugomods/simple-icons v9.14.0+incompatible // indirect
 	github.com/hugomods/snackbar v0.1.2 // indirect
-	github.com/twbs/icons v1.11.0 // indirect
+	github.com/twbs/icons v1.11.1 // indirect
 )
