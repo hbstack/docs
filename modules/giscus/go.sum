@@ -21,6 +21,7 @@ github.com/hbstack/docs v0.6.3/go.mod h1:acVS6usgVQJAaRRZzLrcn57TCsulG4GOXYIoTuu
 github.com/hbstack/docs v0.6.4/go.mod h1:kSVzryHYdTGxWh0TF0Nvkk8BoZBQLgiokgPUK8hKfzs=
 github.com/hbstack/giscus v0.1.0 h1:CmVaxSK60/oF3gmnfUd0UjqtgRK8jV36fQWUff/QuAA=
 github.com/hbstack/giscus v0.1.0/go.mod h1:AkBrbp5uSPcATouJ9g0psaozcM3NxgTrPxMJDJWwWUE=
+github.com/hbstack/giscus v0.1.1/go.mod h1:XElW8oNLnS0dRVFzoo9Gq8xknvz3D2PuTHC7yw9h3EE=
 github.com/hbstack/socials v0.1.3 h1:Y4Rh9KMNdcy4CFgdyef42mgc0p1yz7dGLOQwTy9z5PU=
 github.com/hbstack/socials v0.1.3/go.mod h1:87Y5TtS8zWxEVsGCIG0PAldUetXNNs50viVd5dJJv8Q=
 github.com/hbstack/socials v0.2.0/go.mod h1:USfubzam3XxG/jh/zLv2htW3DGf15NLibPx0AhBhXa0=
