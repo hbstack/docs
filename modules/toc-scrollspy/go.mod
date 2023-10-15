@@ -12,5 +12,5 @@ require (
 	github.com/hbstack/toc-scrollspy v0.1.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/images v0.8.0 // indirect
-	github.com/hugomods/simple-icons v9.17.0+incompatible // indirect
+	github.com/hugomods/simple-icons v9.18.0+incompatible // indirect
 )
