@@ -1,3 +1,9 @@
+.hb-docs-nav {
+    &::-webkit-scrollbar {
+        width: 2px;
+    }
+}
+
 .hb-docs-nav-heading {
     a {
         color: inherit;
