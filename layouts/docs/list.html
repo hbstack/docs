@@ -1,11 +1,13 @@
 {{- define "main" }}
   <div class="hb-docs">
-    <div class="hb-docs-sidebar" tabindex="-1" data-bs-hide="focusout">
+    <div class="hb-docs-sidebar hb-module" tabindex="-1" data-bs-hide="focusout">
       {{ partial "hb/modules/docs/nav" . }}
     </div>
     <div class="hb-docs-main col-12 col-xxl-10">
       {{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-main-begin") }}
-      {{ partial "hb/modules/docs/section" . }}
+      <div class="hb-module">
+        {{ partial "hb/modules/docs/section" . }}
+      </div>
       {{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-main-end") }}
     </div>
   </div>

@@ -1,11 +1,11 @@
 {{- define "main" }}
   <div class="hb-docs">
-    <div class="hb-docs-sidebar" tabindex="-1" data-bs-hide="focusout">
+    <div class="hb-docs-sidebar hb-module" tabindex="-1" data-bs-hide="focusout">
       {{ partial "hb/modules/docs/nav" . }}
     </div>
     <div class="hb-docs-main">
       {{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-main-begin") }}
-      <div class="hb-docs-doc">
+      <div class="hb-docs-doc hb-module">
         <div class="hb-docs-doc-intro">
           <h1 class="mb-3">{{ .Title }}</h1>
           <div class="hb-blog-post-meta hb-docs-doc-meta mb-3">

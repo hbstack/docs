@@ -1,3 +1,7 @@
 .hb-docs-sidebar {
     grid-area: sidebar;
+
+    @include media-breakpoint-down(lg) {
+        padding: 0!important;
+    }
 }
