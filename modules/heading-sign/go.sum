@@ -14,6 +14,7 @@ github.com/hbstack/heading-sign v0.1.3 h1:bkyBAwTETrbLqPBM89EuSscgLt2MOrmEPSeooe
 github.com/hbstack/heading-sign v0.1.3/go.mod h1:uR6DdjYDoLDFanc8kSglEe/08GyNyQBmyNEJ6Z1KRAg=
 github.com/hbstack/pagination v0.2.0 h1:1TKy5bLrwkIxHJPLjK+k6Ws9ZO6Lg2ppP+Z1iVvDoAw=
 github.com/hbstack/pagination v0.2.0/go.mod h1:IwCFgkfkXMVjudqJ8nHcwQLlXmwx0MRtNFOCd+0I3Vw=
+github.com/hbstack/pagination v0.2.1/go.mod h1:rYUcK2N6NxzLiy67xfXzt1xSCE5QKFPYHG3+2hsecYQ=
 github.com/hbstack/socials v0.6.0 h1:vnDZLpQmA2tJAHQeOXuFtlzMIoE8rUKahiBRuhkeg3w=
 github.com/hbstack/socials v0.6.0/go.mod h1:vOckvjx7Tvhg+QJ4rKR7lTj3GytBMACj1Q43V459J5Q=
 github.com/hugomods/gravatar v0.2.0 h1:642HNhGN7Mw7qefNcUFJKzLoT2zJKt4IQkrS53mIUfA=
