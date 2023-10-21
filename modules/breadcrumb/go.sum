@@ -7,6 +7,7 @@ github.com/hbstack/base v0.2.2/go.mod h1:hBRf/kdIQnd7iEhBxr6A+jMwwgJC76MbiAin1eU
 github.com/hbstack/base v0.3.0/go.mod h1:8ZSFDZyhtd26eNdVF7QyPqmxRg2rCJFxjN1I2iYu5N8=
 github.com/hbstack/breadcrumb v0.2.1 h1:dhgak/MwHojE3PSzTMytXp1p0JGhsMje65/3bCxaAL8=
 github.com/hbstack/breadcrumb v0.2.1/go.mod h1:TTqv6qJzqTeYvHSZ3gIifRB/zVD0l+I7/Sxu0cftqtE=
+github.com/hbstack/breadcrumb v0.3.0/go.mod h1:TTqv6qJzqTeYvHSZ3gIifRB/zVD0l+I7/Sxu0cftqtE=
 github.com/hbstack/carousel v0.2.3 h1:4jCjvd2+MDm9sAp3FOtPVa06JmnNLdfBRTxtkyrXl/M=
 github.com/hbstack/carousel v0.2.3/go.mod h1:BUoUKVTPOSoE2iCJABFoCURetHa6OCw6r+gr5DBYavo=
 github.com/hbstack/carousel v0.2.4/go.mod h1:AchKlXiqYNZouE3Ee/VSSQle2FUZV5CJgTnPBFI7Gj0=
