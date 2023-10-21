@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.9](https://github.com/hbstack/docs/compare/modules/giscus/v0.1.8...modules/giscus/v0.1.9) (2023-10-21)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hbstack/docs to v0.7.0 ([b7dbcce](https://github.com/hbstack/docs/commit/b7dbcce85a2b8d715e1a1c3650091fc23eaf4622))
+
 ## [0.1.8](https://github.com/hbstack/docs/compare/modules/giscus/v0.1.7...modules/giscus/v0.1.8) (2023-10-20)
 
 

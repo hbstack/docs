@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/hbstack/docs/compare/modules/toc-scrollspy/v0.1.5...modules/toc-scrollspy/v0.1.6) (2023-10-21)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hbstack/docs to v0.7.0 ([b7dbcce](https://github.com/hbstack/docs/commit/b7dbcce85a2b8d715e1a1c3650091fc23eaf4622))
+
 ## [0.1.5](https://github.com/hbstack/docs/compare/modules/toc-scrollspy/v0.1.4...modules/toc-scrollspy/v0.1.5) (2023-10-20)
 
 

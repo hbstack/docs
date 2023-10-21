@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.0](https://github.com/hbstack/docs/compare/v0.7.0...v0.8.0) (2023-10-21)
+
+
+### Features ✨
+
+* **i18n:** create ms.toml ([#347](https://github.com/hbstack/docs/issues/347)) ([2b42fca](https://github.com/hbstack/docs/commit/2b42fcad55a1081ce4f18afebc9510c668721363))
+
 ## [0.7.0](https://github.com/hbstack/docs/compare/v0.6.4...v0.7.0) (2023-10-20)
 
 

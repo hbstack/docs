@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.7](https://github.com/hbstack/docs/compare/modules/featured-image/v0.2.6...modules/featured-image/v0.2.7) (2023-10-21)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hbstack/docs to v0.7.0 ([b7dbcce](https://github.com/hbstack/docs/commit/b7dbcce85a2b8d715e1a1c3650091fc23eaf4622))
+
 ## [0.2.6](https://github.com/hbstack/docs/compare/modules/featured-image/v0.2.5...modules/featured-image/v0.2.6) (2023-10-20)
 
 
