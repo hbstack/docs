@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/hbstack/docs/compare/modules/doc-nav/v0.3.0...modules/doc-nav/v0.3.1) (2023-10-21)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hbstack/docs to v0.7.0 ([b7dbcce](https://github.com/hbstack/docs/commit/b7dbcce85a2b8d715e1a1c3650091fc23eaf4622))
+
 ## [0.3.0](https://github.com/hbstack/docs/compare/modules/doc-nav/v0.2.5...modules/doc-nav/v0.3.0) (2023-10-20)
 
 
