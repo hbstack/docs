@@ -10,6 +10,7 @@ github.com/hbstack/content-panel v0.2.3 h1:17yanNAuTl3aQn/p3ZMe8xb2jkc7DYkPVk4FT
 github.com/hbstack/content-panel v0.2.3/go.mod h1:btJhaVMoOh9mSAqM4sFfjsCCJB/D253cnR//Y7Lx5xI=
 github.com/hbstack/docs v0.6.4 h1:Uid2yk/x95i2qGfOQ3x06cSlVaHIYl08zNdmdO7D60o=
 github.com/hbstack/docs v0.6.4/go.mod h1:kSVzryHYdTGxWh0TF0Nvkk8BoZBQLgiokgPUK8hKfzs=
+github.com/hbstack/docs v0.7.0/go.mod h1:gg+Shum/JRUzh/A1/SOT8nXHjokygF39SufrpYsD29s=
 github.com/hbstack/hb v0.7.1 h1:bnlE/KrhOKADI5aydZG822kT1o9QR8I8TdOWugqaMJE=
 github.com/hbstack/hb v0.7.1/go.mod h1:S/08mx1tK6yxjQIkSqvpqG8HrBzMBDJq1WC5QjXW9p0=
 github.com/hbstack/pagination v0.2.0 h1:1TKy5bLrwkIxHJPLjK+k6Ws9ZO6Lg2ppP+Z1iVvDoAw=
