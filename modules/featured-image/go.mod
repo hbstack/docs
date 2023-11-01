@@ -9,7 +9,7 @@ require (
 	github.com/hbstack/docs v0.9.0 // indirect
 	github.com/hbstack/featured-image v0.1.1 // indirect
 	github.com/hbstack/hb v0.7.2 // indirect
-	github.com/hbstack/pagination v0.3.0 // indirect
+	github.com/hbstack/pagination v0.4.0 // indirect
 	github.com/hbstack/socials v0.7.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/images v0.8.1 // indirect
