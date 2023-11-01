@@ -1,14 +1,14 @@
 {
-    ".": "0.8.0",
-    "modules/breadcrumb": "0.1.8",
-    "modules/content-panel": "0.1.7",
-    "modules/disqus": "0.1.7",
-    "modules/featured-image": "0.2.7",
-    "modules/giscus": "0.1.9",
-    "modules/heading-sign": "0.1.8",
-    "modules/doc-nav": "0.3.1",
-    "modules/staticman": "0.1.6",
-    "modules/toc-scrollspy": "0.1.6",
-    "modules/twikoo": "0.1.7",
-    "modules/utterances": "0.1.7"
+    ".": "0.9.0",
+    "modules/breadcrumb": "0.1.9",
+    "modules/content-panel": "0.1.8",
+    "modules/disqus": "0.1.8",
+    "modules/featured-image": "0.2.8",
+    "modules/giscus": "0.1.10",
+    "modules/heading-sign": "0.1.9",
+    "modules/doc-nav": "0.3.2",
+    "modules/staticman": "0.1.7",
+    "modules/toc-scrollspy": "0.1.7",
+    "modules/twikoo": "0.1.8",
+    "modules/utterances": "0.1.8"
 }
