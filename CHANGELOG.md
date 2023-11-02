@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.0](https://github.com/hbstack/docs/compare/v0.9.0...v0.10.0) (2023-11-02)
+
+
+### Features ✨
+
+* **i18n:** add Spanish translations ([#380](https://github.com/hbstack/docs/issues/380)) ([7bf89b4](https://github.com/hbstack/docs/commit/7bf89b4f60a1c91651f11c72d8c98607aa33d9f6))
+
 ## [0.9.0](https://github.com/hbstack/docs/compare/v0.8.0...v0.9.0) (2023-11-01)
 
 
