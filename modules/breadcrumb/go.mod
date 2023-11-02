@@ -8,7 +8,7 @@ require (
 	github.com/hbstack/breadcrumb v0.4.0 // indirect
 	github.com/hbstack/carousel v0.2.4 // indirect
 	github.com/hbstack/docs v0.10.0 // indirect
-	github.com/hbstack/pagination v0.4.0 // indirect
+	github.com/hbstack/pagination v0.5.0 // indirect
 	github.com/hbstack/socials v0.8.0 // indirect
 	github.com/hugomods/base v0.4.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
