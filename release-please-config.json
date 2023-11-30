@@ -41,6 +41,9 @@
         "modules/doc-nav": {
             "component": "modules/doc-nav"
         },
+        "modules/revision": {
+            "component": "modules/revision"
+        },
         "modules/staticman": {
             "component": "modules/staticman"
         },
