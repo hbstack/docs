@@ -7,7 +7,7 @@
     "modules/giscus": "0.1.10",
     "modules/heading-sign": "0.1.9",
     "modules/doc-nav": "0.3.2",
-    "modules/revision": "0.0.1",
+    "modules/revision": "0.1.0",
     "modules/staticman": "0.1.7",
     "modules/toc-scrollspy": "0.1.7",
     "modules/twikoo": "0.1.8",
