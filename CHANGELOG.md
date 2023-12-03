@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.1](https://github.com/hbstack/docs/compare/v0.11.0...v0.11.1) (2023-12-03)
+
+
+### Styles 🎨
+
+* prepare for theming ([#426](https://github.com/hbstack/docs/issues/426)) ([a134fec](https://github.com/hbstack/docs/commit/a134fec36ba3b50f31097115f32ff40f997c8504))
+
 ## [0.11.0](https://github.com/hbstack/docs/compare/v0.10.0...v0.11.0) (2023-11-11)
 
 
