@@ -22,6 +22,7 @@
   {{- $justify = "justify-content-end" }}
 {{- end }}
 {{- $size := "1.5em" }}
+{{- if or $prev $next }}
 <ul class="hb-docs-doc-nav nav hb-module {{ $justify }}">
   {{ with $prev }}
     <li class="nav-item my-1">
@@ -56,3 +57,4 @@
     </li>
   {{ end }}
 </ul>
+{{ end }}
