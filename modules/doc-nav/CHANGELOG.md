@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.3](https://github.com/hbstack/docs/compare/modules/doc-nav/v0.3.2...modules/doc-nav/v0.3.3) (2023-12-03)
+
+
+### Styles 🎨
+
+* prepare for theming ([#426](https://github.com/hbstack/docs/issues/426)) ([a134fec](https://github.com/hbstack/docs/commit/a134fec36ba3b50f31097115f32ff40f997c8504))
+
 ## [0.3.2](https://github.com/hbstack/docs/compare/modules/doc-nav/v0.3.1...modules/doc-nav/v0.3.2) (2023-11-01)
 
 
