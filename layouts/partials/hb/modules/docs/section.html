@@ -9,7 +9,7 @@
   {{ .Content }}
   {{- if .Pages }}
     <h2 class="mb-3">{{ i18n "in_this_section" }}</h2>
-    <ul class="list-unstyled mb-5 border-top pt-3">
+    <ul class="list-unstyled border-top pt-3">
       {{ template "walk-docs-section-tree" . }}
     </ul>
   {{- end }}
@@ -20,9 +20,11 @@
 {{- define "walk-docs-section-tree" }}
   {{- $weighted := sort (where .Pages "Params.nav_weight" ">" 0) "Params.nav_weight" }}
   {{- $pages := union $weighted (sort .Pages "Title") }}
-  {{- range $pages }}
+  {{- range $i, $page := $pages }}
+    {{- $last := eq (add $i 1) (len $pages) }}
     {{- if .IsSection }}
-      <li class="mb-4">
+      <li
+        {{ if not $last }}class="mb-4"{{ end }}>
         <a class="fs-6 text-decoration-none" href="{{ .RelPermalink }}">
           {{- .Title -}}
         </a>
@@ -32,7 +34,8 @@
         </ul>
       </li>
     {{- else }}
-      <li class="mb-4">
+      <li
+        {{ if not $last }}class="mb-4"{{ end }}>
         <a class="fs-6 text-decoration-none" href="{{ .RelPermalink }}">
           {{- .Title -}}
         </a>
