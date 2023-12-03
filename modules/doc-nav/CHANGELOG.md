@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.4](https://github.com/hbstack/docs/compare/modules/doc-nav/v0.3.3...modules/doc-nav/v0.3.4) (2023-12-03)
+
+
+### Bug Fixes 🐞
+
+* **doc-nav:** hide wrapper when there is not prev and next docs ([efdcec5](https://github.com/hbstack/docs/commit/efdcec57e94f2f05bb3a1c2aef91fd43a1f7b15f))
+
 ## [0.3.3](https://github.com/hbstack/docs/compare/modules/doc-nav/v0.3.2...modules/doc-nav/v0.3.3) (2023-12-03)
 
 
