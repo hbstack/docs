@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.2](https://github.com/hbstack/docs/compare/v0.11.1...v0.11.2) (2023-12-03)
+
+
+### Styles 🎨
+
+* minor changes ([2ad35b5](https://github.com/hbstack/docs/commit/2ad35b53d9342cd4550e0a5b0d48fcc24550cac3))
+
 ## [0.11.1](https://github.com/hbstack/docs/compare/v0.11.0...v0.11.1) (2023-12-03)
 
 
