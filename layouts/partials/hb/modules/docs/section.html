@@ -1,9 +1,11 @@
-<h1 class="hb-docs-doc-title mb-3">{{ .Title }}</h1>
-{{- with .Description }}
-  <p class="lead">{{ . }}</p>
-{{- end }}
+<div class="hb-docs-doc-intro hb-module">
+  <h1 class="hb-docs-doc-title mb-0">{{ .Title }}</h1>
+  {{- with .Description }}
+    <p class="lead mt-3">{{ . }}</p>
+  {{- end }}
+</div>
 {{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-doc-content-begin") }}
-<div class="hb-docs-doc-content mb-5">
+<div class="hb-docs-doc-content hb-module">
   {{ .Content }}
   {{- if .Pages }}
     <h2 class="mb-3">{{ i18n "in_this_section" }}</h2>
