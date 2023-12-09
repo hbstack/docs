@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.3](https://github.com/hbstack/docs/compare/v0.11.2...v0.11.3) (2023-12-09)
+
+
+### Bug Fixes 🐞
+
+* correct content style ([9ff0a64](https://github.com/hbstack/docs/commit/9ff0a6446389885dc2b99de7b4b16b37a25866e2))
+
 ## [0.11.2](https://github.com/hbstack/docs/compare/v0.11.1...v0.11.2) (2023-12-03)
 
 
