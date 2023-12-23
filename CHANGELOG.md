@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.11.4](https://github.com/hbstack/docs/compare/v0.11.3...v0.11.4) (2023-12-23)
+
+
+### Bug Fixes 🐞
+
+* **deps:** update dependency stylelint-scss to v6 ([6790899](https://github.com/hbstack/docs/commit/6790899dfda18abda1efd019b505fcf204b89a4d))
+* force to take full width regardless of the hb.full_width parameter ([99e290b](https://github.com/hbstack/docs/commit/99e290ba856d6bb58e8686e62eed76b69e0bd9eb))
+
 ## [0.11.3](https://github.com/hbstack/docs/compare/v0.11.2...v0.11.3) (2023-12-09)
 
 
