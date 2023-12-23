@@ -1,5 +1,0 @@
-{{- $attrs := newScratch }}
-{{- if eq .Page.Type "docs" }}
-  {{- $attrs.Set "class" "hb-main container-fluid" }}
-{{- end }}
-{{- return $attrs.Values -}}

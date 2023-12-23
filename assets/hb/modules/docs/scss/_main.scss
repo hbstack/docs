@@ -1,3 +1,7 @@
+.hb-main {
+    max-width: 100% !important;
+}
+
 .hb-docs {
     @include media-breakpoint-up(lg) {
         display: grid;
