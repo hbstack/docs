@@ -10,3 +10,7 @@ path = "github.com/hbstack/blog"
 
 [params.hb.docs]
 date_format = ":date_long"
+
+# Takes the full width by default.
+[params.hb.full_width_types.docs]
+enable = true
