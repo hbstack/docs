@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.5](https://github.com/hbstack/docs/compare/v0.11.4...v0.11.5) (2023-12-24)
+
+
+### Bug Fixes 🐞
+
+* correct full width issue ([b1d5cfc](https://github.com/hbstack/docs/commit/b1d5cfc6b7c1a6a478cace9ebb59099010dcb250))
+
 ## [0.11.4](https://github.com/hbstack/docs/compare/v0.11.3...v0.11.4) (2023-12-23)
 
 
