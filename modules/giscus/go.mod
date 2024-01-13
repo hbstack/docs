@@ -13,6 +13,6 @@ require (
 	github.com/hugomods/base v0.4.1 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/hugopress v0.2.3 // indirect
-	github.com/hugomods/images v0.8.4 // indirect
+	github.com/hugomods/images v0.9.0 // indirect
 	github.com/hugomods/simple-icons v11.0.0+incompatible // indirect
 )
