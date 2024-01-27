@@ -11,11 +11,15 @@ label_singular = "Document"
 create = true
 _extends = [
   "field_title",
+  "field_link_title",
   "field_draft",
+  "hb_field_featured",
+  "hb_field_pinned",
   "field_date",
   "field_description",
   "field_images",
   "field_aliases",
+  "field_authors",
   "field_series",
   "field_categories",
   "field_tags",
