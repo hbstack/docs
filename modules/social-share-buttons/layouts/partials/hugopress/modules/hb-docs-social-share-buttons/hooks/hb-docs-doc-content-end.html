@@ -1,0 +1,9 @@
+{{- $ctx := dict
+  "page" .Page
+  "params" (default dict site.Params.hb.docs.social_share_buttons)
+}}
+{{- if $ctx.params.media }}
+  <div class="hb-module">
+    {{ partial "hb/modules/social-share-buttons/index" $ctx }}
+  </div>
+{{- end }}
