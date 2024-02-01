@@ -1,0 +1,11 @@
+[[module.imports]]
+path = "github.com/hbstack/docs"
+
+[[module.imports]]
+path = "github.com/hbstack/social-share-buttons"
+
+[params.hugopress.modules.hb-docs-social-share-buttons.hooks.hb-docs-doc-content-end]
+weight = 1
+
+[params.hb.docs.social_share_buttons]
+media = []
