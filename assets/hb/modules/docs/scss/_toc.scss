@@ -5,8 +5,13 @@
     @include media-breakpoint-up(lg) {
         height: calc(100vh - var(--#{$prefix}top-offset));
         overflow-y: auto;
+        scrollbar-width: thin;
 
         @include top-offset(sticky);
+
+        &:hover {
+            scrollbar-color: var(--#{$prefix}primary) transparent;
+        }
     }
 }
 
