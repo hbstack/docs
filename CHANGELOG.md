@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.12.0](https://github.com/hbstack/docs/compare/v0.11.7...v0.12.0) (2024-03-07)
+
+
+### Features ✨
+
+* add the nav_menus parameter for linking to external documentations ([#573](https://github.com/hbstack/docs/issues/573)) ([bd5fe1d](https://github.com/hbstack/docs/commit/bd5fe1d98850527ba209508012bed5b43542ae02))
+
+
+### Bug Fixes 🐞
+
+* **deps:** update dependency stylelint-scss to v6.2.0 ([84f715f](https://github.com/hbstack/docs/commit/84f715f858284e6227dffc89bbab58fcd7f87031))
+* **deps:** update dependency stylelint-scss to v6.2.1 ([47e654a](https://github.com/hbstack/docs/commit/47e654a63cbe3ecaad7a402aab665ff5be7dba1e))
+
 ## [0.11.7](https://github.com/hbstack/docs/compare/v0.11.6...v0.11.7) (2024-02-17)
 
 
