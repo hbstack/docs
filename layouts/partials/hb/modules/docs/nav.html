@@ -16,6 +16,9 @@
   <div class="offcanvas-body flex-column text-body-secondary">
     <ul class="hb-docs-nav-links list-unstyled hb-module">
       {{ template "walk-docs-tree" (dict "Tree" $tree "Page" .) }}
+      {{- with .FirstSection.Params.nav_menus }}
+        {{- partial "hb/modules/docs/nav-menus" . -}}
+      {{- end }}
     </ul>
   </div>
 </div>
@@ -41,7 +44,7 @@
           <a
             class="d-flex flex-grow-1 align-items-center"
             href="{{ $node.Page.RelPermalink }}">
-            {{- partial "hb/modules/docs/nav-menu" $node.Page -}}
+            {{- partial "hb/modules/docs/nav-link" $node.Page -}}
           </a>
           {{ if .Children }}
             <button
@@ -66,6 +69,9 @@
             class="collapse list-unstyled fw-normal small ms-2{{ cond $active ` show` `` }}"
             id="{{ $collapseId }}">
             {{- template "walk-docs-tree" (dict "Tree" . "Page" $page) }}
+            {{- with $node.Page.Params.nav_menus }}
+              {{- partial "hb/modules/docs/nav-menus" . -}}
+            {{- end }}
           </ul>
         {{- end }}
       </li>
@@ -78,7 +84,7 @@
           {{ else }}
             href="{{ .Page.RelPermalink }}"
           {{ end }}>
-          {{- partial "hb/modules/docs/nav-menu" $node.Page -}}
+          {{- partial "hb/modules/docs/nav-link" $node.Page -}}
         </a>
       </li>
     {{- end }}
