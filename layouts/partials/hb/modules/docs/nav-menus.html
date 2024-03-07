@@ -1,0 +1,21 @@
+{{- $externalIcon := partial "icons/icon" (dict "vendor" "fas" "name" "arrow-up-right-from-square" "height" "1em" "width" "1em") }}
+{{- $weighted := sort (where . "weight" "ne" nil) "weight" }}
+{{- $unweighted := sort (where . "weight" "eq" nil) "name" }}
+{{- range $weighted | append $unweighted }}
+  <li class="hb-docs-nav-links-span-all">
+    <a
+      class="hb-docs-nav-link d-flex align-items-center rounded"
+      target="_blank" href="{{ .url }}"
+      rel="external">
+        {{- with .icon }}
+          <span class="hb-docs-nav-link-icon d-flex me-2">
+            {{ partial "icons/icon" (merge (dict "height" "1em" "width" "1em") .) }}
+          </span>
+        {{- end }}
+        {{- .name -}}
+        <span class="hb-docs-nav-link-icon d-flex ms-auto">
+          {{ $externalIcon }}
+        </span>
+    </a>
+  </li>
+{{- end }}
