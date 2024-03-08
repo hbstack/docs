@@ -12,6 +12,6 @@ require (
 	github.com/hbstack/socials v0.9.0 // indirect
 	github.com/hbstack/toc-scrollspy v0.1.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
-	github.com/hugomods/images v0.9.2 // indirect
+	github.com/hugomods/images v0.9.3 // indirect
 	github.com/hugomods/simple-icons v11.6.0+incompatible // indirect
 )
