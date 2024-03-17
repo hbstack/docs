@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.9](https://github.com/hbstack/docs/compare/modules/utterances/v0.1.8...modules/utterances/v0.1.9) (2024-03-17)
+
+
+### Bug Fixes 🐞
+
+* allow showing comments on other sections ([1b46a35](https://github.com/hbstack/docs/commit/1b46a3589312720b31928a40293d63cbf5b42aed))
+
 ## [0.1.8](https://github.com/hbstack/docs/compare/modules/utterances/v0.1.7...modules/utterances/v0.1.8) (2023-11-01)
 
 
