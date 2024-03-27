@@ -8,9 +8,11 @@
       <div class="hb-docs-doc">
         <div class="hb-docs-doc-intro hb-module">
           <h1 class="mb-3">{{ .Title }}</h1>
-          <div class="hb-blog-post-meta hb-docs-doc-meta mb-3">
-            {{- partial "hb/modules/docs/doc/meta" . }}
-          </div>
+          {{- if ne (default dict .Params.meta) false }}
+            <div class="hb-blog-post-meta hb-docs-doc-meta mb-3">
+              {{- partial "hb/modules/docs/doc/meta" . }}
+            </div>
+          {{- end }}
           {{- with .Description }}
             <p class="lead">{{ . }}</p>
           {{- end }}
