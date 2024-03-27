@@ -1,6 +1,15 @@
-{{ partialCached "hb/modules/blog/post/meta/authors" . . }}
-<span class="hb-docs-doc-date">
-  {{- .Date | time.Format site.Params.hb.docs.date_format -}}
-</span>
-{{ partialCached "hb/modules/blog/post/meta/reading-time" . . }}
-{{ partialCached "hb/modules/blog/post/meta/taxonomies" . . }}
+{{- $params := default dict .Params.meta }}
+{{- if ne (default true $params.authors) false }}
+  {{ partialCached "hb/modules/blog/post/meta/authors" . . }}
+{{- end }}
+{{- if ne (default true $params.date) false }}
+  <span class="hb-docs-doc-date">
+    {{- .Date | time.Format site.Params.hb.docs.date_format -}}
+  </span>
+{{- end }}
+{{- if ne (default true $params.reading_time) false }}
+  {{ partialCached "hb/modules/blog/post/meta/reading-time" . . }}
+{{- end }}
+{{- if ne (default true $params.taxonomies) false }}
+  {{ partialCached "hb/modules/blog/post/meta/taxonomies" . . }}
+{{- end }}
