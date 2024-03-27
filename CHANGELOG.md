@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.13.0](https://github.com/hbstack/docs/compare/v0.12.0...v0.13.0) (2024-03-27)
+
+
+### Features ✨
+
+* add the meta* page parameters ([#605](https://github.com/hbstack/docs/issues/605)) ([1ec44ad](https://github.com/hbstack/docs/commit/1ec44ad0950e269078601c4317814e8444cec36f))
+
 ## [0.12.0](https://github.com/hbstack/docs/compare/v0.11.7...v0.12.0) (2024-03-07)
 
 
