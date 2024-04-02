@@ -1,5 +1,5 @@
 [docs_nav_title]
-other = "瀏覽文檔"
+other = "瀏覽{{ . }}"
 
 [in_this_section]
 other = "本節內容"

@@ -1,5 +1,5 @@
 [docs_nav_title]
-other = "Navigasi dokumen"
+other = "Navigasi {{ . }}"
 
 [in_this_section]
 other = "Dalam bahagian ini"
