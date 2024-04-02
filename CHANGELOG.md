@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.13.1](https://github.com/hbstack/docs/compare/v0.13.0...v0.13.1) (2024-04-02)
+
+
+### Bug Fixes 🐞
+
+* use first section title as the docs nav title ([#614](https://github.com/hbstack/docs/issues/614)) ([4e3ebb2](https://github.com/hbstack/docs/commit/4e3ebb285645ab1ac079b7bc664362d465bf1c33))
+
+
+### Styles 🎨
+
+* change the ToC toggle color to secondary ([f4c4b05](https://github.com/hbstack/docs/commit/f4c4b05caa957f7c5b6e153850636c78c47f5ced))
+* remove margin-bottom from last modules to align components horizontally ([e29f378](https://github.com/hbstack/docs/commit/e29f378fea23f9a1da03ff3cffd5acfb7e623930))
+* **toc:** set padding-left as pe-lg-2 ([5293b39](https://github.com/hbstack/docs/commit/5293b392ac1fbdbacec4a300c1f2a24c6d7ac7ad))
+
 ## [0.13.0](https://github.com/hbstack/docs/compare/v0.12.0...v0.13.0) (2024-03-27)
 
 
