@@ -11,6 +11,7 @@
     "modules/revision": "0.1.0",
     "modules/social-share-buttons": "0.1.0",
     "modules/staticman": "0.1.7",
+    "modules/sticky-till-the-end": "0.0.1",
     "modules/toc-scrollspy": "0.1.7",
     "modules/twikoo": "0.1.8",
     "modules/utterances": "0.1.9"
