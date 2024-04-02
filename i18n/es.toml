@@ -1,5 +1,5 @@
 [docs_nav_title]
-other = "Explorar documentos"
+other = "Explorar {{ . }}"
 
 [in_this_section]
 other = "En esta sección"

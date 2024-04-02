@@ -1,5 +1,5 @@
 [docs_nav_title]
-other = "Смотреть документацию"
+other = "Смотреть {{ . }}"
 
 [in_this_section]
 other = "В этой секции"
