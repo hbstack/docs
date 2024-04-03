@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.13.2](https://github.com/hbstack/docs/compare/v0.13.1...v0.13.2) (2024-04-03)
+
+
+### Styles 🎨
+
+* fix modules aligning ([01821e2](https://github.com/hbstack/docs/commit/01821e2c04e1f5bb259380f20f7f666e3ecf2e7d))
+
 ## [0.13.1](https://github.com/hbstack/docs/compare/v0.13.0...v0.13.1) (2024-04-02)
 
 
