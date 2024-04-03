@@ -3,6 +3,8 @@
 .hb-docs-doc-toc,
 .hb-docs-nav {
   .hb-module:last-of-type {
-    margin-bottom: 0 !important;
+    @include media-breakpoint-up($hb-header-breakpoint) {
+      margin-bottom: 0 !important;
+    }
   }
 }
