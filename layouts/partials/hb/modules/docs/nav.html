@@ -25,6 +25,7 @@
 
 {{- define "walk-docs-tree" }}
   {{- $page := .Page }}
+  {{- $border := default true site.Params.hb.docs.navs_border }}
   {{- range .Tree }}
     {{- $node := . }}
     {{- $active := eq $page.RelPermalink .Page.RelPermalink }}
@@ -66,7 +67,7 @@
         </div>
         {{- with .Children }}
           <ul
-            class="collapse list-unstyled fw-normal small ms-2{{ cond $active ` show` `` }}"
+            class="collapse list-unstyled fw-normal small {{ cond $border `ms-1 ps-1 border-start` `ms-2` }}{{ cond $active ` show` `` }}"
             id="{{ $collapseId }}">
             {{- template "walk-docs-tree" (dict "Tree" . "Page" $page) }}
             {{- with $node.Page.Params.nav_menus }}
