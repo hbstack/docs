@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.14.0](https://github.com/hbstack/docs/compare/v0.13.2...v0.14.0) (2024-04-05)
+
+
+### Features ✨
+
+* add the hb.docs.navs_border, default to true, when false disable the left border for navs ([c368d98](https://github.com/hbstack/docs/commit/c368d98c4d1f036280ed4014735359cde56fa6cf))
+
+
+### Styles 🎨
+
+* show left border for sub navs ([c368d98](https://github.com/hbstack/docs/commit/c368d98c4d1f036280ed4014735359cde56fa6cf))
+
 ## [0.13.2](https://github.com/hbstack/docs/compare/v0.13.1...v0.13.2) (2024-04-03)
 
 
