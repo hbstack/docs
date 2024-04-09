@@ -23,7 +23,8 @@
 {{- end }}
 {{- $size := "1.5em" }}
 {{- if or $prev $next }}
-<ul class="hb-docs-doc-nav nav hb-module {{ $justify }}">
+<div class="hb-module">
+<ul class="hb-docs-doc-nav nav {{ $justify }}">
   {{ with $prev }}
     <li class="nav-item my-1">
       <a
@@ -57,4 +58,5 @@
     </li>
   {{ end }}
 </ul>
+</div>
 {{ end }}
