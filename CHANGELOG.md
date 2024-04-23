@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.15.0](https://github.com/hbstack/docs/compare/v0.14.1...v0.15.0) (2024-04-23)
+
+
+### Features ✨
+
+* **i18n:** add German translations ([#644](https://github.com/hbstack/docs/issues/644)) ([4129c49](https://github.com/hbstack/docs/commit/4129c495e3270f73f7a3699c6fd777b5ea135e47))
+
 ## [0.14.1](https://github.com/hbstack/docs/compare/v0.14.0...v0.14.1) (2024-04-09)
 
 
