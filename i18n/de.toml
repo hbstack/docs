@@ -1,0 +1,8 @@
+[docs_nav_title]
+other = "Durchsuche {{ . }}"
+
+[in_this_section]
+other = "In diesem Abschnitt"
+
+[on_this_page]
+other = "Auf dieser Seite"
