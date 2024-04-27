@@ -55,6 +55,7 @@ github.com/hbstack/socials v0.8.0/go.mod h1:D9aDcI9L3rlQpCPhpPfPUerKmH0Fr6LezwLJ
 github.com/hbstack/socials v0.9.0/go.mod h1:8H+ztN27J59oWcQyQTFj95HsauF2a22GXqQlNMGTQw4=
 github.com/hbstack/socials v0.10.0/go.mod h1:VeK9k0+f+HsKuPbVAqRwwz5KqWm+2+NlYlJsMdja4c8=
 github.com/hbstack/socials v0.11.0/go.mod h1:VeK9k0+f+HsKuPbVAqRwwz5KqWm+2+NlYlJsMdja4c8=
+github.com/hbstack/socials v0.12.0/go.mod h1:VeK9k0+f+HsKuPbVAqRwwz5KqWm+2+NlYlJsMdja4c8=
 github.com/hugomods/gravatar v0.2.0 h1:642HNhGN7Mw7qefNcUFJKzLoT2zJKt4IQkrS53mIUfA=
 github.com/hugomods/gravatar v0.2.0/go.mod h1:oATWuh5u2XUK/ZKzOD0VEP5I/TZfVZwplTyhT61Q4Fc=
 github.com/hugomods/icons v0.6.0 h1:G6RU93okhPPRDh/jqcew9gwkcYpSpg0rCBv4S6yUAFw=
