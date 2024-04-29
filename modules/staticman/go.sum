@@ -42,6 +42,7 @@ github.com/hbstack/socials v0.9.0/go.mod h1:8H+ztN27J59oWcQyQTFj95HsauF2a22GXqQl
 github.com/hbstack/socials v0.10.0/go.mod h1:VeK9k0+f+HsKuPbVAqRwwz5KqWm+2+NlYlJsMdja4c8=
 github.com/hbstack/socials v0.11.0/go.mod h1:VeK9k0+f+HsKuPbVAqRwwz5KqWm+2+NlYlJsMdja4c8=
 github.com/hbstack/socials v0.12.0/go.mod h1:VeK9k0+f+HsKuPbVAqRwwz5KqWm+2+NlYlJsMdja4c8=
+github.com/hbstack/socials v0.13.0/go.mod h1:xCbwzO1NzuLhll79QlkG9r/wS0r3Hl5Cy+GhxZBqceo=
 github.com/hbstack/staticman-comments v0.2.1 h1:wx8DvA73YTVJ20Vm3UjF++JKvHtDrw+CWMCcGIqo7s4=
 github.com/hbstack/staticman-comments v0.2.1/go.mod h1:atFiyPXyyITaL8JbaMA2Qrle2q6SKtUssG0q8nY9LRk=
 github.com/hugomods/base v0.2.0 h1:O/ZzXPA9LJvNbkfmx0nJX9LHjEnQjAPmCwd2APwhnPU=
