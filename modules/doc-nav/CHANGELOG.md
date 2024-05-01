@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.6](https://github.com/hbstack/docs/compare/modules/doc-nav/v0.3.5...modules/doc-nav/v0.3.6) (2024-05-01)
+
+
+### Styles 🎨
+
+* **doc-nav:** minor tweak ([#663](https://github.com/hbstack/docs/issues/663)) ([5db8e80](https://github.com/hbstack/docs/commit/5db8e8041c92e736938aab41c8a077a7ffb4cb10))
+
 ## [0.3.5](https://github.com/hbstack/docs/compare/modules/doc-nav/v0.3.4...modules/doc-nav/v0.3.5) (2024-04-09)
 
 
