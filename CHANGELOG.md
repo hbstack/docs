@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.16.0](https://github.com/hbstack/docs/compare/v0.15.0...v0.16.0) (2024-05-05)
+
+
+### Features ✨
+
+* add toggle button for docs navigation ([#669](https://github.com/hbstack/docs/issues/669)) ([732496e](https://github.com/hbstack/docs/commit/732496e175ff662b95c9b16d92a6b74fc29d4fc5)), closes [#668](https://github.com/hbstack/docs/issues/668)
+
 ## [0.15.0](https://github.com/hbstack/docs/compare/v0.14.1...v0.15.0) (2024-04-23)
 
 
