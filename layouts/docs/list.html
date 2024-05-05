@@ -8,5 +8,6 @@
       {{ partial "hb/modules/docs/section" . }}
       {{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-main-end") }}
     </div>
+    {{ partial "hb/modules/docs/nav-toggle" . }}
   </div>
 {{- end -}}

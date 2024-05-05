@@ -1,5 +1,6 @@
 .hb-docs-sidebar {
     grid-area: sidebar;
+    transition: .3s linear;
 
     @include media-breakpoint-down(lg) {
         padding: 0!important;
