@@ -4,6 +4,20 @@
         grid-template-areas: "sidebar main";
         grid-template-columns: 1fr 5fr;
         gap: 1.5rem;
+
+        &.sidebar-off {
+            grid-template-columns: 0 5fr;
+
+            .hb-docs-sidebar {
+                opacity: 0;
+            }
+
+            .hb-docs-nav-toggle {
+                svg {
+                    transform: rotate(180deg);
+                }
+            }
+        }
     }
 }
 

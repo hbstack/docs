@@ -26,9 +26,9 @@
     }
 }
 
-.hb-docs-nav-toggle {
+.hb-docs-nav-toggle-item {
     &[aria-expanded="true"] {
-        .hb-docs-nav-toggle-icon {
+        .hb-docs-nav-item-toggle-icon {
             transform: rotate(90deg);
         }
     }
