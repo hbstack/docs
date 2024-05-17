@@ -19,7 +19,7 @@
 {{- end }}
 {{- $size := "1.5em" }}
 {{- if or $prev $next }}
-<div class="hb-docs-doc-nav mb-3 row row-cols-1 g-3{{ cond (and (ne $prev nil) (ne $next nil)) ` row-cols-md-2` `` }}">
+<div class="hb-docs-doc-nav mb-3 row row-cols-1 g-3{{ with (and $prev $next) }} row-cols-md-2{{ end }}">
   {{ with $prev }}
     <div class="col">
       <a
