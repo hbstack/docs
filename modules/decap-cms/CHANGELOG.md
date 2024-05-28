@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/hbstack/docs/compare/modules/decap-cms/v0.2.1...modules/decap-cms/v0.3.0) (2024-05-28)
+
+
+### Features ✨
+
+* **i18n:** add Vietnamese translations ([2997099](https://github.com/hbstack/docs/commit/2997099642a8ecf9765623a09e019d17705face5))
+
 ## [0.2.1](https://github.com/hbstack/docs/compare/modules/decap-cms/v0.2.0...modules/decap-cms/v0.2.1) (2024-02-02)
 
 

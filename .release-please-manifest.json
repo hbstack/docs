@@ -1,8 +1,8 @@
 {
-    ".": "0.16.0",
+    ".": "0.17.0",
     "modules/breadcrumb": "0.1.9",
     "modules/content-panel": "0.1.8",
-    "modules/decap-cms": "0.2.1",
+    "modules/decap-cms": "0.3.0",
     "modules/disqus": "0.1.8",
     "modules/emote": "0.1.1",
     "modules/featured-image": "0.2.8",
