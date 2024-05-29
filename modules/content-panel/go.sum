@@ -30,6 +30,7 @@ github.com/hbstack/content-panel v0.7.1/go.mod h1:Hu7l0CBytB9B83NFZ0bWFffV1WRPSr
 github.com/hbstack/content-panel v0.7.2/go.mod h1:Hu7l0CBytB9B83NFZ0bWFffV1WRPSrJEaAilApnyxzY=
 github.com/hbstack/content-panel v0.8.0/go.mod h1:lEyMXJYCNHL6fkT260oX2FnXF6gD5Vd3EytifVuz3iQ=
 github.com/hbstack/content-panel v0.9.0/go.mod h1:lEyMXJYCNHL6fkT260oX2FnXF6gD5Vd3EytifVuz3iQ=
+github.com/hbstack/content-panel v0.10.0/go.mod h1:lEyMXJYCNHL6fkT260oX2FnXF6gD5Vd3EytifVuz3iQ=
 github.com/hbstack/docs v0.6.4 h1:Uid2yk/x95i2qGfOQ3x06cSlVaHIYl08zNdmdO7D60o=
 github.com/hbstack/docs v0.6.4/go.mod h1:kSVzryHYdTGxWh0TF0Nvkk8BoZBQLgiokgPUK8hKfzs=
 github.com/hbstack/docs v0.7.0/go.mod h1:gg+Shum/JRUzh/A1/SOT8nXHjokygF39SufrpYsD29s=
