@@ -7,7 +7,7 @@ require (
 	github.com/hbstack/base v0.6.0 // indirect
 	github.com/hbstack/breadcrumb v0.6.0 // indirect
 	github.com/hbstack/carousel v0.2.5 // indirect
-	github.com/hbstack/docs v0.16.0 // indirect
+	github.com/hbstack/docs v0.17.0 // indirect
 	github.com/hbstack/pagination v0.7.0 // indirect
 	github.com/hbstack/socials v0.14.1 // indirect
 	github.com/hugomods/base v0.6.0 // indirect
