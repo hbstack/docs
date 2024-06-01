@@ -12,7 +12,7 @@ require (
 	github.com/hbstack/utterances v0.1.1 // indirect
 	github.com/hugomods/base v0.7.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
-	github.com/hugomods/hugopress v0.2.3 // indirect
+	github.com/hugomods/hugopress v0.3.0 // indirect
 	github.com/hugomods/images v0.10.1 // indirect
 	github.com/hugomods/simple-icons v12.0.0+incompatible // indirect
 )
