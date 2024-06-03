@@ -3,7 +3,7 @@
         display: grid;
         grid-template-areas: "sidebar main";
         grid-template-columns: 1fr 5fr;
-        gap: 1.5rem;
+        gap: .5rem;
 
         &.sidebar-off {
             grid-template-columns: 0 5fr;
