@@ -14,5 +14,5 @@ require (
 	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/hugopress v0.4.0 // indirect
 	github.com/hugomods/images v0.10.1 // indirect
-	github.com/hugomods/simple-icons v12.0.0+incompatible // indirect
+	github.com/hugomods/simple-icons v12.1.0+incompatible // indirect
 )
