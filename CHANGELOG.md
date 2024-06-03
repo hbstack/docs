@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.17.1](https://github.com/hbstack/docs/compare/v0.17.0...v0.17.1) (2024-06-03)
+
+
+### Styles 🎨
+
+* change gap between of main and sidebar to .5rem ([9a44dcb](https://github.com/hbstack/docs/commit/9a44dcb058b5d23254c91882150ac61acb8f7e12))
+
 ## [0.17.0](https://github.com/hbstack/docs/compare/v0.16.0...v0.17.0) (2024-05-28)
 
 
