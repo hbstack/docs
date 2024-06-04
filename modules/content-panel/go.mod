@@ -7,7 +7,7 @@ require (
 	github.com/hbstack/base v0.6.0 // indirect
 	github.com/hbstack/carousel v0.2.5 // indirect
 	github.com/hbstack/content-panel v0.10.1 // indirect
-	github.com/hbstack/docs v0.17.1 // indirect
+	github.com/hbstack/docs v0.17.2 // indirect
 	github.com/hbstack/hb v0.12.2 // indirect
 	github.com/hbstack/pagination v0.8.0 // indirect
 	github.com/hbstack/socials v0.15.0 // indirect
