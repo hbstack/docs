@@ -28,11 +28,7 @@
   {{- $border := default true site.Params.hb.docs.navs_border }}
   {{- range .Tree }}
     {{- $node := . }}
-    {{- $active := eq $page.RelPermalink .Page.RelPermalink }}
     {{- if $node.Page.IsSection }}
-      {{- if partial "hb/modules/docs/functions/is-section-page" (dict "Page" $page "Section" $node.Page) }}
-        {{- $active = true }}
-      {{- end }}
       <li class="hb-docs-nav-links-group">
         {{- $collapseId := "" }}
         {{- with $node.Page.File }}
@@ -41,7 +37,7 @@
           {{- $collapseId = printf "collapse-%d" now.UnixNano }}
         {{- end }}
         <div
-          class="hb-docs-nav-heading d-flex align-items-center justify-content-between rounded{{ cond $active ` active` `` }}">
+          class="hb-docs-nav-heading d-flex align-items-center justify-content-between rounded">
           <a
             class="d-flex flex-grow-1 align-items-center"
             href="{{ $node.Page.RelPermalink }}">
@@ -53,7 +49,7 @@
               type="button"
               data-bs-toggle="collapse"
               data-bs-target="#{{ $collapseId }}"
-              aria-expanded="{{ cond $active `true` `false` }}"
+              aria-expanded="false"
               aria-controls="{{ $collapseId }}">
               {{ partial "icons/icon" (dict
                 "vendor" "bootstrap"
@@ -67,7 +63,7 @@
         </div>
         {{- with .Children }}
           <ul
-            class="collapse list-unstyled fw-normal small {{ cond $border `ms-1 ps-1 border-start` `ms-2` }}{{ cond $active ` show` `` }}"
+            class="collapse list-unstyled fw-normal small {{ cond $border `ms-1 ps-1 border-start` `ms-2` }}"
             id="{{ $collapseId }}">
             {{- template "walk-docs-tree" (dict "Tree" . "Page" $page) }}
             {{- with $node.Page.Params.nav_menus }}
@@ -79,7 +75,7 @@
     {{- else }}
       <li class="hb-docs-nav-links-span-all">
         <a
-          class="hb-docs-nav-link d-flex align-items-center rounded{{ cond $active ` active` `` }}"
+          class="hb-docs-nav-link d-flex align-items-center rounded"
           {{ with .Page.Params.redirect }}
             target="_blank" href="{{ . | absURL }}"
           {{ else }}
