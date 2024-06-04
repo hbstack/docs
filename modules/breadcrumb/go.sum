@@ -51,6 +51,7 @@ github.com/hbstack/docs v0.14.1/go.mod h1:wXdXKn/rEWXXJyouep5Z4O1Atr898Cxh0Aa36q
 github.com/hbstack/docs v0.15.0/go.mod h1:VAj1PCNArRNXMrDnhZEvVlX6QXqgI9mXBChBm91XXYk=
 github.com/hbstack/docs v0.16.0/go.mod h1:YJefwfpWdeXDsgkSDCJUnvPadycxDwgnpWHOMUpUNjg=
 github.com/hbstack/docs v0.17.0/go.mod h1:yk/D2ab4vnD5cNwoHsnpBDruPFYI6jPzc/rg5xnM0q8=
+github.com/hbstack/docs v0.17.1/go.mod h1:8nM1YwlDGfIkb51arJR8Viy35NFkytHfKqKUjdjLb8w=
 github.com/hbstack/pagination v0.2.0 h1:1TKy5bLrwkIxHJPLjK+k6Ws9ZO6Lg2ppP+Z1iVvDoAw=
 github.com/hbstack/pagination v0.2.0/go.mod h1:IwCFgkfkXMVjudqJ8nHcwQLlXmwx0MRtNFOCd+0I3Vw=
 github.com/hbstack/pagination v0.2.1/go.mod h1:rYUcK2N6NxzLiy67xfXzt1xSCE5QKFPYHG3+2hsecYQ=
