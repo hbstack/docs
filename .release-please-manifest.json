@@ -1,6 +1,6 @@
 {
     ".": "0.17.2",
-    "modules/breadcrumb": "0.1.9",
+    "modules/breadcrumb": "0.1.10",
     "modules/content-panel": "0.1.8",
     "modules/decap-cms": "0.3.0",
     "modules/disqus": "0.1.8",

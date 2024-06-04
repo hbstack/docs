@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.10](https://github.com/hbstack/docs/compare/modules/breadcrumb/v0.1.9...modules/breadcrumb/v0.1.10) (2024-06-04)
+
+
+### Performance Improvements ⚡️
+
+* **breadcrumb:** cache partial ([50a4982](https://github.com/hbstack/docs/commit/50a4982f5e631710cf7e0beb06ff138bb1a6bea6))
+
 ## [0.1.9](https://github.com/hbstack/docs/compare/modules/breadcrumb/v0.1.8...modules/breadcrumb/v0.1.9) (2023-11-01)
 
 
