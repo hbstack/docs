@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.17.2](https://github.com/hbstack/docs/compare/v0.17.1...v0.17.2) (2024-06-04)
+
+
+### Performance Improvements ⚡️
+
+* cache sidebar and using JavaScript to locate current active menu ([#707](https://github.com/hbstack/docs/issues/707)) ([1ce46a2](https://github.com/hbstack/docs/commit/1ce46a2e71a84b94e47afbd7d135f3229023879d))
+
 ## [0.17.1](https://github.com/hbstack/docs/compare/v0.17.0...v0.17.1) (2024-06-03)
 
 
