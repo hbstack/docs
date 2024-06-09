@@ -12,7 +12,7 @@ require (
 	github.com/hugomods/base v0.7.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/hugopress v0.4.0 // indirect
-	github.com/hugomods/icons v0.6.3 // indirect
+	github.com/hugomods/icons v0.6.4 // indirect
 	github.com/hugomods/images v0.10.1 // indirect
 	github.com/hugomods/simple-icons v12.2.0+incompatible // indirect
 	github.com/hugomods/snackbar v0.1.2 // indirect
