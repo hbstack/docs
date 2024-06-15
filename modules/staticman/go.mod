@@ -9,7 +9,7 @@ require (
 	github.com/hbstack/pagination v0.8.0 // indirect
 	github.com/hbstack/socials v0.16.0 // indirect
 	github.com/hbstack/staticman-comments v0.3.0 // indirect
-	github.com/hugomods/base v0.7.0 // indirect
+	github.com/hugomods/base v0.7.1 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/hugopress v0.4.0 // indirect
 	github.com/hugomods/icons v0.6.4 // indirect
