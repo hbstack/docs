@@ -9,6 +9,8 @@ cacheable = true
 cache_param_key = "redirect"
 
 [params.hugopress.modules.hb-docs.hooks.hb-header-nav-begin]
+cacheable = "true"
+cache_key = "page.Type"
 
 [params.hb.docs]
 date_format = ":date_long"
