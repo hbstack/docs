@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.17.3](https://github.com/hbstack/docs/compare/v0.17.2...v0.17.3) (2024-06-16)
+
+
+### Performance Improvements ⚡️
+
+* cache doc-toggle partial ([5a17ef2](https://github.com/hbstack/docs/commit/5a17ef270474b3ae39b4c64a06521b2112df2ce7))
+* cache hb-header-nav-begin hook ([46afdf6](https://github.com/hbstack/docs/commit/46afdf61a554c1e7ae8c0a0fe5f81d9877e37cb7))
+* cache head-begin hook ([0820748](https://github.com/hbstack/docs/commit/0820748e42607380c24072b3fc6334366a872f88))
+
 ## [0.17.2](https://github.com/hbstack/docs/compare/v0.17.1...v0.17.2) (2024-06-04)
 
 

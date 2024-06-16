@@ -1,19 +1,19 @@
 {
-    ".": "0.17.2",
+    ".": "0.17.3",
     "modules/breadcrumb": "0.1.10",
     "modules/content-panel": "0.1.8",
     "modules/decap-cms": "0.3.0",
     "modules/disqus": "0.1.8",
     "modules/emote": "0.1.1",
     "modules/featured-image": "0.2.8",
-    "modules/giscus": "0.1.10",
+    "modules/giscus": "0.1.11",
     "modules/heading-sign": "0.1.9",
     "modules/doc-nav": "0.3.7",
     "modules/revision": "0.1.0",
     "modules/social-share-buttons": "0.1.0",
     "modules/staticman": "0.1.7",
     "modules/sticky-till-the-end": "0.1.0",
-    "modules/toc-scrollspy": "0.1.7",
+    "modules/toc-scrollspy": "0.1.8",
     "modules/twikoo": "0.1.8",
     "modules/utterances": "0.1.9"
 }
