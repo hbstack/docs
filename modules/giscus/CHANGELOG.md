@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.11](https://github.com/hbstack/docs/compare/modules/giscus/v0.1.10...modules/giscus/v0.1.11) (2024-06-16)
+
+
+### Performance Improvements ⚡️
+
+* **giscus:** cache body-end hook ([7414b8a](https://github.com/hbstack/docs/commit/7414b8ae477b9822b2cab708b88486a473736c96))
+
 ## [0.1.10](https://github.com/hbstack/docs/compare/modules/giscus/v0.1.9...modules/giscus/v0.1.10) (2023-11-01)
 
 
