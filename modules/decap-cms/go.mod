@@ -8,7 +8,7 @@ require (
 	github.com/hbstack/base v0.6.1 // indirect
 	github.com/hbstack/blog v0.35.4 // indirect
 	github.com/hbstack/carousel v0.2.6 // indirect
-	github.com/hbstack/docs v0.17.2 // indirect
+	github.com/hbstack/docs v0.17.3 // indirect
 	github.com/hbstack/footer v0.4.1 // indirect
 	github.com/hbstack/hb v0.12.2 // indirect
 	github.com/hbstack/header v0.14.5 // indirect
