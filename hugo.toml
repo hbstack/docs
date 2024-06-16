@@ -5,6 +5,8 @@ path = "github.com/hugomods/hugopress"
 path = "github.com/hbstack/blog"
 
 [params.hugopress.modules.hb-docs.hooks.head-begin]
+cacheable = true
+cache_param_key = "redirect"
 
 [params.hugopress.modules.hb-docs.hooks.hb-header-nav-begin]
 
