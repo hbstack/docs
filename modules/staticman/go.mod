@@ -14,7 +14,7 @@ require (
 	github.com/hugomods/hugopress v0.4.1 // indirect
 	github.com/hugomods/icons v0.6.4 // indirect
 	github.com/hugomods/images v0.10.1 // indirect
-	github.com/hugomods/simple-icons v12.2.0+incompatible // indirect
+	github.com/hugomods/simple-icons v12.3.0+incompatible // indirect
 	github.com/hugomods/snackbar v0.1.2 // indirect
 	github.com/twbs/icons v1.11.3 // indirect
 )
