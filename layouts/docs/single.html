@@ -26,6 +26,6 @@
       </div>
       {{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-main-end ") }}
     </div>
-    {{ partial "hb/modules/docs/nav-toggle" . }}
+    {{ partialCached "hb/modules/docs/nav-toggle" . }}
   </div>
 {{- end -}}
