@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.18.0](https://github.com/hbstack/docs/compare/v0.17.3...v0.18.0) (2024-07-14)
+
+
+### Features ✨
+
+* add the hb-docs-nav-afterbegin and hb-docs-nav-beforeend hooks ([#748](https://github.com/hbstack/docs/issues/748)) ([88670a2](https://github.com/hbstack/docs/commit/88670a253618e5e4213fb4850f8edce5b27cd867)), closes [#747](https://github.com/hbstack/docs/issues/747)
+
 ## [0.17.3](https://github.com/hbstack/docs/compare/v0.17.2...v0.17.3) (2024-06-16)
 
 
