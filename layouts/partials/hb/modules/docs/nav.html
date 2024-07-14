@@ -14,12 +14,14 @@
       data-bs-target=".hb-docs-nav"></button>
   </div>
   <div class="offcanvas-body flex-column text-body-secondary">
+    {{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-nav-afterbegin") }}
     <ul class="hb-docs-nav-links list-unstyled hb-module">
       {{ template "walk-docs-tree" (dict "Tree" $tree "Page" .) }}
       {{- with .FirstSection.Params.nav_menus }}
         {{- partial "hb/modules/docs/nav-menus" . -}}
       {{- end }}
     </ul>
+    {{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-nav-beforeend") }}
   </div>
 </div>
 
