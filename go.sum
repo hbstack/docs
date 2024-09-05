@@ -14,6 +14,7 @@ github.com/hbstack/base v0.5.1/go.mod h1:4A2bxdXMjpj4HSEnugN7hlFECiap4zUX56jOqtu
 github.com/hbstack/base v0.5.2/go.mod h1:4A2bxdXMjpj4HSEnugN7hlFECiap4zUX56jOqtu4YPY=
 github.com/hbstack/base v0.6.0/go.mod h1:4A2bxdXMjpj4HSEnugN7hlFECiap4zUX56jOqtu4YPY=
 github.com/hbstack/base v0.6.1/go.mod h1:rDOIrQy8GKXqam3dvHPQnrvwadQByiGcDY1Q35wBrT4=
+github.com/hbstack/base v0.6.2/go.mod h1:eO3xP3CJ2Dwc38+FjVqZuzmvT8dYF2D2Dw4Sx4pi9Ng=
 github.com/hbstack/blog v0.24.1 h1:5i7jLg5oXXNQn7J5gQsoZrbjSgAoKKlnWW/SXM1qFxQ=
 github.com/hbstack/blog v0.24.1/go.mod h1:kph+UDJmulJJ2UqNN1L9pCYNVMk6qAY9kAVnn/2QIik=
 github.com/hbstack/blog v0.24.2/go.mod h1:MVyMZqDGbWrT4FTC7X0mJwoBvanhD22j/0CWsS/saFo=
@@ -73,6 +74,7 @@ github.com/hbstack/hb v0.12.2/go.mod h1:gwKZN1bsmMuSjEkI/l/9zJCG0Xz96h0r7Cv/WOjj
 github.com/hbstack/hb v0.12.3/go.mod h1:K+8F6OQKKAVneWZKzW/Jj3vbqaG1ewFIH/P7HKNeF3o=
 github.com/hbstack/hb v0.12.4/go.mod h1:FJilVCHtkVpfXZT+Ii2OFCVeu9wQh/YGgRMuPKX5ycA=
 github.com/hbstack/hb v0.13.0/go.mod h1:FJilVCHtkVpfXZT+Ii2OFCVeu9wQh/YGgRMuPKX5ycA=
+github.com/hbstack/hb v0.14.0/go.mod h1:FJilVCHtkVpfXZT+Ii2OFCVeu9wQh/YGgRMuPKX5ycA=
 github.com/hbstack/header v0.12.4 h1:IF8pjf7QL2ZllENfxSoF1CmiBHXj4aK9ndag1ruL4Xk=
 github.com/hbstack/header v0.12.4/go.mod h1:4XKdpn0KyL9VN8tFRsVqU8AF5eOM1Gw5+vvhXlsF/X0=
 github.com/hbstack/header v0.12.5/go.mod h1:qJ6oP59zCAmkKnFALrEOBo92dnAmxCkYeG1uFjmVMj8=
