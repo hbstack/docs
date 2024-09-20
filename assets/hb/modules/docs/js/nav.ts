@@ -23,4 +23,7 @@
   }
 
   active(link)
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelector('.hb-docs-nav')?.scrollTo(0, link.offsetTop)
+  })
 })()
