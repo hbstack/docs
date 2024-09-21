@@ -1,4 +1,13 @@
 .hb-docs-nav-heading {
+    @if ($hb-docs-navs-sticky-scroll) {
+        @include media-breakpoint-up(xl) {
+            position: sticky;
+            top: 0;
+            background: var(--#{$prefix}tertiary-bg);
+            z-index: 5;
+        }
+    }
+
     a {
         color: inherit;
         text-decoration: none;
@@ -31,5 +40,24 @@
         .hb-docs-nav-item-toggle-icon {
             transform: rotate(90deg);
         }
+    }
+}
+
+@mixin hb-docs-nav-heading-top($level, $levels, $height) {
+    .hb-docs-nav-links-group {
+        .hb-docs-nav-heading {
+            z-index: $levels - $level;
+            top: $level * $height;
+        }
+
+        @if ($level <= $levels) {
+            @include hb-docs-nav-heading-top($level + 1, $levels, $height);
+        }
+    }
+}
+
+@if ($hb-docs-navs-sticky-scroll) {
+    .hb-docs-nav-links-group {
+        @include hb-docs-nav-heading-top(1, 5, 2.075rem);
     }
 }
