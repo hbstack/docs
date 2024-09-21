@@ -28,6 +28,7 @@
 {{- define "walk-docs-tree" }}
   {{- $page := .Page }}
   {{- $border := default true site.Params.hb.docs.navs_border }}
+  {{- $reduceFontSize := default true site.Params.hb.docs.navs_reduce_font_size }}
   {{- range .Tree }}
     {{- $node := . }}
     {{- if $node.Page.IsSection }}
@@ -65,7 +66,7 @@
         </div>
         {{- with .Children }}
           <ul
-            class="collapse list-unstyled fw-normal small {{ cond $border `ms-1 ps-1 border-start` `ms-2` }}"
+            class="collapse list-unstyled fw-normal {{ cond $reduceFontSize `small` `` }} {{ cond $border `ms-1 ps-1 border-start` `ms-2` }}"
             id="{{ $collapseId }}">
             {{- template "walk-docs-tree" (dict "Tree" . "Page" $page) }}
             {{- with $node.Page.Params.nav_menus }}
