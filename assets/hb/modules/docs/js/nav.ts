@@ -24,6 +24,17 @@
 
   active(link)
   document.addEventListener('DOMContentLoaded', () => {
-    document.querySelector('.hb-docs-nav')?.scrollTo(0, link.offsetTop)
+    const nav = document.querySelector('.hb-docs-nav')
+    nav?.scrollTo(0, link.offsetTop / 2)
+
+    document.querySelectorAll('.hb-docs-nav-links-group .collapse').forEach((el) => {
+      el.addEventListener('hide.bs.collapse', event => {
+        if (event.target !== el) {
+          return
+        }
+
+        nav?.scrollTo(0, el.offsetTop / 2)
+      }, false)
+    })
   })
 })()

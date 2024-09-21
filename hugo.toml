@@ -15,6 +15,7 @@ cache_key = "page.Type"
 [params.hb.docs]
 date_format = ":date_long"
 navs_reduce_font_size = false
+navs_sticky_scroll = true
 
 # Takes the full width by default.
 [params.hb.full_width_types.docs]
