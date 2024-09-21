@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.19.0](https://github.com/hbstack/docs/compare/v0.18.1...v0.19.0) (2024-09-21)
+
+
+### Features ✨
+
+* add the `hb.docs.navs_reduce_font_size` parameter, default to `true` ([#809](https://github.com/hbstack/docs/issues/809)) ([16441fc](https://github.com/hbstack/docs/commit/16441fc50684ecf2749120dc72ea05a44c975785))
+* add the `hb.docs.navs_sticky_scroll` parameter, default to `true` ([#811](https://github.com/hbstack/docs/issues/811)) ([daf55ea](https://github.com/hbstack/docs/commit/daf55eafe1d5398d54edbdb7e0cb54a4078dece6))
+
 ## [0.18.1](https://github.com/hbstack/docs/compare/v0.18.0...v0.18.1) (2024-09-20)
 
 
