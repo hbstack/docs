@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.20.0](https://github.com/hbstack/docs/compare/v0.19.0...v0.20.0) (2024-10-12)
+
+
+### Features ✨
+
+* add the `hb.docs.navs_active_style` parameter ([#836](https://github.com/hbstack/docs/issues/836)) ([1d55bfa](https://github.com/hbstack/docs/commit/1d55bfa3dd8b4dda5af28c7b6577a7375d060d7c)), closes [#835](https://github.com/hbstack/docs/issues/835)
+
 ## [0.19.0](https://github.com/hbstack/docs/compare/v0.18.1...v0.19.0) (2024-09-21)
 
 
