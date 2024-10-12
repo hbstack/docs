@@ -20,9 +20,7 @@
     margin-top: 0.25rem;
     padding: 0.25rem 0.5rem;
     text-decoration: none;
-}
 
-.hb-docs-nav-heading {
     &:hover,
     &.active {
         background: var(--#{$prefix}primary-bg-subtle);
@@ -31,21 +29,23 @@
 
 .hb-docs-nav-link {
     position: relative;
+}
 
-    &:hover,
-    &.active {
-        @if ($hb-docs-navs-active-style == '') {
-            background: var(--#{$prefix}primary-bg-subtle);
-        }
+@if ($hb-docs-navs-active-style == 'bordered') {
+    .hb-docs-nav-links-group {
+        .hb-docs-nav-link {
+            &:hover,
+            &.active {
+                background: unset;
 
-        @if ($hb-docs-navs-active-style == 'bordered') {
-            &::before {
-                content: "";
-                position: absolute;
-                left: 0;
-                margin-left: -.325rem;
-                border-left: 2px solid var(--#{$prefix}primary);
-                height: 1.25rem;
+                &::before {
+                    content: "";
+                    position: absolute;
+                    left: 0;
+                    margin-left: -.325rem;
+                    border-left: 2px solid var(--#{$prefix}primary);
+                    height: 1.25rem;
+                }
             }
         }
     }
