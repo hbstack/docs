@@ -1,1 +1,2 @@
 $hb-docs-navs-sticky-scroll: {{ default true site.Params.hb.docs.navs_sticky_scroll }};
+$hb-docs-navs-active-style: '{{ default "" site.Params.hb.docs.navs_active_style }}';
