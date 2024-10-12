@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.20.1](https://github.com/hbstack/docs/compare/v0.20.0...v0.20.1) (2024-10-12)
+
+
+### Bug Fixes 🐞
+
+* active style for first level nav items ([#839](https://github.com/hbstack/docs/issues/839)) ([296b793](https://github.com/hbstack/docs/commit/296b793de7948734dfacd1d43c79ce6bdac1114d))
+
 ## [0.20.0](https://github.com/hbstack/docs/compare/v0.19.0...v0.20.0) (2024-10-12)
 
 
