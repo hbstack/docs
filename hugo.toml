@@ -16,6 +16,7 @@ cache_key = "page.Type"
 date_format = ":date_long"
 navs_reduce_font_size = false
 navs_sticky_scroll = true
+navs_active_style = "" # empty or bordered.
 
 # Takes the full width by default.
 [params.hb.full_width_types.docs]
