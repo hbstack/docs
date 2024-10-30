@@ -1,0 +1,11 @@
+{{- $section := .FirstSection }}
+{{- if not (default true $section.Params.docs_root_section) }}
+  {{- with index .Ancestors.Reverse 2 }}
+    {{- $section = . }}
+  {{- else }}
+    {{- if .IsSection }}
+      {{- $section = . }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- return $section }}
