@@ -10,7 +10,7 @@ require (
 	github.com/hbstack/pagination v0.8.0 // indirect
 	github.com/hbstack/socials v0.17.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
-	github.com/hugomods/icons/vendors/bootstrap v0.5.8 // indirect
+	github.com/hugomods/icons/vendors/bootstrap v0.5.9 // indirect
 	github.com/hugomods/images v0.11.2 // indirect
 	github.com/hugomods/simple-icons v13.15.0+incompatible // indirect
 	github.com/hugomods/twikoo v0.1.0 // indirect
