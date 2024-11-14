@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.21.0](https://github.com/hbstack/docs/compare/v0.20.1...v0.21.0) (2024-11-14)
+
+
+### Features ✨
+
+* add the `docs_root_section` page parameter ([#866](https://github.com/hbstack/docs/issues/866)) ([192f9df](https://github.com/hbstack/docs/commit/192f9dfdca0eb666354361b38a99ce634345820b))
+
+
+### Bug Fixes 🐞
+
+* **deps:** update dependency stylelint-scss to v6.8.0 ([74481d3](https://github.com/hbstack/docs/commit/74481d30719f4e424907a681ccc69b7f01771b24))
+* **deps:** update dependency stylelint-scss to v6.8.1 ([cb7e92a](https://github.com/hbstack/docs/commit/cb7e92aa4f7aa1d50e47d7c2c8a05040ade92e16))
+* **deps:** update dependency stylelint-scss to v6.9.0 ([2066738](https://github.com/hbstack/docs/commit/20667386d719e055540dbd328d49f58ff75578e7))
+
 ## [0.20.1](https://github.com/hbstack/docs/compare/v0.20.0...v0.20.1) (2024-10-12)
 
 
