@@ -1,4 +1,5 @@
-{{- $tree := partialCached "hb/modules/docs/functions/tree" . .FirstSection }}
+{{- $rootSection := partialCached "hb/modules/docs/functions/root-section" . . }}
+{{- $tree := partialCached "hb/modules/docs/functions/tree" $rootSection $rootSection }}
 <div
   class="hb-docs-nav offcanvas-lg pe-lg-2 offcanvas-start"
   aria-labelledby="hb-docs-nav-label">
