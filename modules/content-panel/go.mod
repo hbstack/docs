@@ -8,7 +8,7 @@ require (
 	github.com/hbstack/carousel v0.2.7 // indirect
 	github.com/hbstack/content-panel v0.10.2 // indirect
 	github.com/hbstack/docs v0.21.0 // indirect
-	github.com/hbstack/hb v0.15.4 // indirect
+	github.com/hbstack/hb v0.16.0 // indirect
 	github.com/hbstack/pagination v0.8.0 // indirect
 	github.com/hbstack/socials v0.17.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
