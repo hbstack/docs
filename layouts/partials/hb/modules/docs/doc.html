@@ -1,6 +1,6 @@
 {{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-doc-content-begin") }}
 {{- $attributes := partial "hugopress/functions/render-attributes" (dict "Page" . "Name" "hb-docs-doc-content") }}
-<div class="hb-docs-doc-content hb-module"{{ with $attributes }} {{ . | safeHTMLAttr }}{{ end }}>
+<div class="hb-docs-doc-content hb-content hb-module"{{ with $attributes }} {{ . | safeHTMLAttr }}{{ end }}>
   {{ .Content }}
 </div>
 {{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-doc-content-end") }}

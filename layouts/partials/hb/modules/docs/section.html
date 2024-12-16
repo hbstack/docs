@@ -5,7 +5,7 @@
   {{- end }}
 </div>
 {{ partial "hugopress/functions/render-hooks" (dict "Page" . "Name" "hb-docs-doc-content-begin") }}
-<div class="hb-docs-doc-content hb-module">
+<div class="hb-docs-doc-content hb-content hb-module">
   {{ .Content }}
   {{- if .Pages }}
     <h2 class="mb-3">{{ i18n "in_this_section" }}</h2>
