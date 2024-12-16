@@ -6,7 +6,7 @@ require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hbstack/base v0.6.2 // indirect
 	github.com/hbstack/carousel v0.2.7 // indirect
-	github.com/hbstack/docs v0.21.0 // indirect
+	github.com/hbstack/docs v0.22.0 // indirect
 	github.com/hbstack/featured-image v0.2.2 // indirect
 	github.com/hbstack/hb v0.16.0 // indirect
 	github.com/hbstack/pagination v0.8.0 // indirect
