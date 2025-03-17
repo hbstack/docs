@@ -1,0 +1,8 @@
+[docs_nav_title]
+other = "Navegar pelos {{ . }}"
+
+[in_this_section]
+other = "Nesta secção"
+
+[on_this_page]
+other = "Nesta página"
