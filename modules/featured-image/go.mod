@@ -12,6 +12,6 @@ require (
 	github.com/hbstack/pagination v0.8.0 // indirect
 	github.com/hbstack/socials v0.18.0 // indirect
 	github.com/hugomods/gravatar v0.2.1 // indirect
-	github.com/hugomods/images v0.12.0 // indirect
+	github.com/hugomods/images v0.12.1 // indirect
 	github.com/hugomods/simple-icons v13.21.0+incompatible // indirect
 )
