@@ -1,6 +1,6 @@
 <div class="hb-docs-doc-intro hb-module">
   <h1 class="hb-docs-doc-title mb-0">{{ .Title }}</h1>
-  {{- with .Description }}
+  {{- with and (default false .Params.hide_subtitle | not) .Description }}
     <p class="lead mt-3">{{ . }}</p>
   {{- end }}
 </div>

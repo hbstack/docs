@@ -14,7 +14,7 @@
               {{- partial "hb/modules/docs/doc/meta" . }}
             </div>
           {{- end }}
-          {{- with .Description }}
+          {{- with and (default false .Params.hide_subtitle | not) .Description }}
             <p class="lead">{{ . }}</p>
           {{- end }}
         </div>
