@@ -3,7 +3,7 @@ module github.com/hbstack/docs/modules/staticman
 go 1.19
 
 require (
-	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400 // indirect
+	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20800 // indirect
 	github.com/hbstack/carousel v0.2.7 // indirect
 	github.com/hbstack/docs v0.24.0 // indirect
 	github.com/hbstack/pagination v0.8.0 // indirect
